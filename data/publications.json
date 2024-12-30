@@ -1,0 +1,14 @@
+﻿[
+	{
+		"id": 1,
+		"name": "Synthesis of software architectures for cross-platform application development",
+		"link": "http://dx.doi.org/10.15421/432101",
+		"authors": [ "Vladislav Antonyuk", "Maryna Sydorova" ],
+		"journal": "Actual problems of automation and information technology",
+		"volume": "25",
+		"pages": "3-12",
+		"date": "2021",
+		"doi": "http://dx.doi.org/10.15421/432101",
+		"keywords": [ "архітектура програмного забезпечення", "архітектурні шаблони", "розробка кросплатформового додатка" ]
+	}
+]

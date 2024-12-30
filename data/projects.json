@@ -1,0 +1,51 @@
+﻿[
+  {
+    "id": 1,
+    "name": "Draw & GO",
+    "description": "Draw & GO is a cross-platform application. It can help you automate all daily routine with your devices by recording and playing back macros using the graphical key.",
+    "image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/projects/drawgo.png",
+    "link": "https://drawgo.azurewebsites.net"
+  },
+  {
+    "id": 2,
+    "name": "World Explorer",
+    "description": "The application allows you to view the most interesting places in the world.",
+    "image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/projects/world-explorer.svg",
+    "link": "https://world-explorer.azurewebsites.net/"
+  },
+  {
+    "id": 3,
+    "name": "Continue On PC",
+    "description": "iOS Safari Extension to continue browsing on Desktop",
+    "image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/projects/Continue-on-PC.png",
+    "link": "https://github.com/VladislavAntonyuk/ContinueOnPC"
+  },
+  {
+    "id": 4,
+    "name": "GallerySuite",
+    "description": "All your media files in one place. View all your photos from Google Photos, Instagram, Facebook. The application is cross-platform and works on Android, iOS, tvOS. The website is available as well.",
+    "image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/projects/GallerySuite.png",
+    "link": "https://gallerysuite.azurewebsites.net/"
+  },
+  {
+    "id": 5,
+    "name": "Driver Assistance",
+    "description": "The application allows you monitor the car speed and informs about the traffic signs. The OBD-adapter is required.",
+    "image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/projects/driver-assistance.png",
+    "link": "https://bitbucket.org/VladislavAntonyuk/driverassistance"
+  },
+  {
+    "id": 6,
+    "name": "PickMeUp",
+    "description": "Service, which can help you quickly get to the necessary destination.",
+    "image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/projects/pmu.png",
+    "link": "http://pmu.hol.es/"
+  },
+  {
+    "id": 7,
+    "name": "SpeakUp",
+    "description": "Video-voice control of your device on any language.",
+    "image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/projects/speakup.png",
+    "link": "https://drawgo.azurewebsites.net"
+  }
+]

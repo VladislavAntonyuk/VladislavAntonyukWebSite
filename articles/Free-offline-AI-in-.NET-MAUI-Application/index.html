@@ -1,0 +1,372 @@
+<!DOCTYPE html><html lang="en"><head>
+	<meta charset="utf-8"/>
+	<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+	<base href="/"/>
+	<link href="https://vladislavantonyuk.github.io/_content/MudBlazor/MudBlazor.min.css" rel="stylesheet"/>
+	<link href="https://vladislavantonyuk.github.io/_content/MudBlazor.Markdown/MudBlazor.Markdown.min.css" rel="stylesheet"/>
+	<link href="https://vladislavantonyuk.github.io/css/app.css" rel="stylesheet"/>
+	<link href="https://vladislavantonyuk.github.io/favicon.png" rel="icon" type="image/png"/>
+	<link href="https://vladislavantonyuk.github.io/manifest.json" rel="manifest"/>
+	<link href="https://vladislavantonyuk.github.io/icon-512.png" rel="apple-touch-icon" sizes="512x512"/>
+	<link href="https://vladislavantonyuk.github.io/icon-192.png" rel="apple-touch-icon" sizes="192x192"/>
+	<meta content="FYU4uQBaeJFPBxpWEWSYYPu_ce1FW8jDRgpGvaHSecs" name="google-site-verification"/>
+
+	<!-- Chrome, Firefox OS and Opera -->
+	<meta content="#4285f4" name="theme-color"/>
+	<!-- Windows Phone -->
+	<meta content="#4285f4" name="msapplication-navbutton-color"/>
+	<!-- iOS Safari -->
+	<meta content="#4285f4" name="apple-mobile-web-app-status-bar-style"/>
+	<meta content="en-US" property="og:locale"/>
+
+	<link href="https://vladislavantonyuk.github.io/favicon.png" rel="shortcut icon"/>
+
+	<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2260920996164852"></script>
+	<!-- Google tag (gtag.js) -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-T43R6ZZLV6"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+
+		function gtag() {
+			dataLayer.push(arguments);
+		}
+
+		gtag('js', new Date());
+
+		gtag('config', 'G-T43R6ZZLV6');
+	</script>
+
+<!-- %%-PRERENDERING-HEADOUTLET-BEGIN-%% -->
+<title>Free offline AI in .NET MAUI Application</title><meta Name="description" Content="" />
+	<meta Name="keywords" Content="dotnet, .net, maui, ollama, ai, chatgpt, android, ios, maccatalyst, windows, tizen" />
+	<meta Property="og:type" Content="website">
+	<meta Property="og:title" Content="Free offline AI in .NET MAUI Application" />
+	<meta Property="og:description" Content="" />
+	<meta Property="og:image" Content="https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/59/59.png" />
+	<meta Property="og:image:url" Content="https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/59/59.png" />
+	<meta Property="og:url" Content="https://vladislavantonyuk.github.io/articles/Free-offline-AI-in-.NET-MAUI-Application" />
+	<meta Property="og:site_name" Content="Vladislav Antonyuk" />
+
+	<meta Property="twitter:card" Content="summary">
+	<meta Property="twitter:site" Content="Vladislav Antonyuk" />
+	<meta Property="twitter:description" Content="" />
+	<meta Property="twitter:image" Content="https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/59/59.png" />
+	<meta Property="twitter:image:url" Content="https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/59/59.png" />
+	<meta Property="twitter:url" Content="https://vladislavantonyuk.github.io/articles/Free-offline-AI-in-.NET-MAUI-Application" />
+<!-- %%-PRERENDERING-HEADOUTLET-END-%% -->
+</head>
+<body>
+<div id="snow"></div>
+<div id="app">
+<!-- %%-PRERENDERING-BEGIN-%% -->
+
+
+<style>
+::-webkit-scrollbar {width: 8px;height: 8px;z-index: 1;}
+::-webkit-scrollbar-track {background: transparent;}
+::-webkit-scrollbar-thumb {background: #c4c4c4;border-radius: 1px;}
+::-webkit-scrollbar-thumb:hover {background: #a6a6a6;}
+html, body * {scrollbar-color: #c4c4c4 transparent;scrollbar-width: thin;}
+</style>
+<style>
+    .mud-chart-serie:hover {
+        filter: url(#lighten);
+    }
+</style>
+
+<style>
+:root{
+--mud-palette-black: rgba(39,39,47,1);
+--mud-palette-white: rgba(255,255,255,1);
+--mud-palette-primary: rgba(119,107,231,1);
+--mud-palette-primary-rgb: 119,107,231;
+--mud-palette-primary-text: rgba(255,255,255,1);
+--mud-palette-primary-darken: rgb(90,75,226);
+--mud-palette-primary-lighten: rgb(151,141,236);
+--mud-palette-primary-hover: rgba(119,107,231,0.058823529411764705);
+--mud-palette-secondary: rgba(255,64,129,1);
+--mud-palette-secondary-rgb: 255,64,129;
+--mud-palette-secondary-text: rgba(255,255,255,1);
+--mud-palette-secondary-darken: rgb(255,31,105);
+--mud-palette-secondary-lighten: rgb(255,102,153);
+--mud-palette-secondary-hover: rgba(255,64,129,0.058823529411764705);
+--mud-palette-tertiary: rgba(30,200,165,1);
+--mud-palette-tertiary-rgb: 30,200,165;
+--mud-palette-tertiary-text: rgba(255,255,255,1);
+--mud-palette-tertiary-darken: rgb(25,169,140);
+--mud-palette-tertiary-lighten: rgb(42,223,187);
+--mud-palette-tertiary-hover: rgba(30,200,165,0.058823529411764705);
+--mud-palette-info: rgba(50,153,255,1);
+--mud-palette-info-rgb: 50,153,255;
+--mud-palette-info-text: rgba(255,255,255,1);
+--mud-palette-info-darken: rgb(10,133,255);
+--mud-palette-info-lighten: rgb(92,173,255);
+--mud-palette-info-hover: rgba(50,153,255,0.058823529411764705);
+--mud-palette-success: rgba(11,186,131,1);
+--mud-palette-success-rgb: 11,186,131;
+--mud-palette-success-text: rgba(255,255,255,1);
+--mud-palette-success-darken: rgb(9,154,108);
+--mud-palette-success-lighten: rgb(13,222,156);
+--mud-palette-success-hover: rgba(11,186,131,0.058823529411764705);
+--mud-palette-warning: rgba(255,168,0,1);
+--mud-palette-warning-rgb: 255,168,0;
+--mud-palette-warning-text: rgba(255,255,255,1);
+--mud-palette-warning-darken: rgb(214,143,0);
+--mud-palette-warning-lighten: rgb(255,182,36);
+--mud-palette-warning-hover: rgba(255,168,0,0.058823529411764705);
+--mud-palette-error: rgba(246,78,98,1);
+--mud-palette-error-rgb: 246,78,98;
+--mud-palette-error-text: rgba(255,255,255,1);
+--mud-palette-error-darken: rgb(244,47,70);
+--mud-palette-error-lighten: rgb(248,119,134);
+--mud-palette-error-hover: rgba(246,78,98,0.058823529411764705);
+--mud-palette-dark: rgba(39,39,47,1);
+--mud-palette-dark-rgb: 39,39,47;
+--mud-palette-dark-text: rgba(255,255,255,1);
+--mud-palette-dark-darken: rgb(23,23,28);
+--mud-palette-dark-lighten: rgb(56,56,67);
+--mud-palette-dark-hover: rgba(39,39,47,0.058823529411764705);
+--mud-palette-text-primary: rgba(255,255,255,0.6980392156862745);
+--mud-palette-text-secondary: rgba(255,255,255,0.4980392156862745);
+--mud-palette-text-disabled: rgba(255,255,255,0.2);
+--mud-palette-action-default: rgba(173,173,177,1);
+--mud-palette-action-default-hover: rgba(173,173,177,0.058823529411764705);
+--mud-palette-action-disabled: rgba(255,255,255,0.25882352941176473);
+--mud-palette-action-disabled-background: rgba(255,255,255,0.11764705882352941);
+--mud-palette-surface: rgba(55,55,64,1);
+--mud-palette-background: rgba(50,51,61,1);
+--mud-palette-background-gray: rgba(39,39,47,1);
+--mud-palette-drawer-background: rgba(39,39,47,1);
+--mud-palette-drawer-text: rgba(255,255,255,0.4980392156862745);
+--mud-palette-drawer-icon: rgba(255,255,255,0.4980392156862745);
+--mud-palette-appbar-background: rgba(39,39,47,1);
+--mud-palette-appbar-text: rgba(255,255,255,0.6980392156862745);
+--mud-palette-lines-default: rgba(255,255,255,0.11764705882352941);
+--mud-palette-lines-inputs: rgba(255,255,255,0.2980392156862745);
+--mud-palette-table-lines: rgba(255,255,255,0.11764705882352941);
+--mud-palette-table-striped: rgba(255,255,255,0.2);
+--mud-palette-table-hover: rgba(0,0,0,0.0392156862745098);
+--mud-palette-divider: rgba(255,255,255,0.11764705882352941);
+--mud-palette-divider-light: rgba(255,255,255,0.058823529411764705);
+--mud-palette-skeleton: rgba(255,255,255,0.10980392156862745);
+--mud-palette-gray-default: #9E9E9E;
+--mud-palette-gray-light: #BDBDBD;
+--mud-palette-gray-lighter: #E0E0E0;
+--mud-palette-gray-dark: #757575;
+--mud-palette-gray-darker: #616161;
+--mud-palette-overlay-dark: rgba(33,33,33,0.4980392156862745);
+--mud-palette-overlay-light: rgba(255,255,255,0.4980392156862745);
+--mud-ripple-color: var(--mud-palette-text-primary);
+--mud-ripple-opacity: 0.1;
+--mud-ripple-opacity-secondary: 0.2;
+--mud-elevation-0: none;
+--mud-elevation-1: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+--mud-elevation-2: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+--mud-elevation-3: 0px 3px 3px -2px rgba(0,0,0,0.2),0px 3px 4px 0px rgba(0,0,0,0.14),0px 1px 8px 0px rgba(0,0,0,0.12);
+--mud-elevation-4: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+--mud-elevation-5: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 5px 8px 0px rgba(0,0,0,0.14),0px 1px 14px 0px rgba(0,0,0,0.12);
+--mud-elevation-6: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+--mud-elevation-7: 0px 4px 5px -2px rgba(0,0,0,0.2),0px 7px 10px 1px rgba(0,0,0,0.14),0px 2px 16px 1px rgba(0,0,0,0.12);
+--mud-elevation-8: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+--mud-elevation-9: 0px 5px 6px -3px rgba(0,0,0,0.2),0px 9px 12px 1px rgba(0,0,0,0.14),0px 3px 16px 2px rgba(0,0,0,0.12);
+--mud-elevation-10: 0px 6px 6px -3px rgba(0,0,0,0.2),0px 10px 14px 1px rgba(0,0,0,0.14),0px 4px 18px 3px rgba(0,0,0,0.12);
+--mud-elevation-11: 0px 6px 7px -4px rgba(0,0,0,0.2),0px 11px 15px 1px rgba(0,0,0,0.14),0px 4px 20px 3px rgba(0,0,0,0.12);
+--mud-elevation-12: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 12px 17px 2px rgba(0,0,0,0.14),0px 5px 22px 4px rgba(0,0,0,0.12);
+--mud-elevation-13: 0px 7px 8px -4px rgba(0,0,0,0.2),0px 13px 19px 2px rgba(0,0,0,0.14),0px 5px 24px 4px rgba(0,0,0,0.12);
+--mud-elevation-14: 0px 7px 9px -4px rgba(0,0,0,0.2),0px 14px 21px 2px rgba(0,0,0,0.14),0px 5px 26px 4px rgba(0,0,0,0.12);
+--mud-elevation-15: 0px 8px 9px -5px rgba(0,0,0,0.2),0px 15px 22px 2px rgba(0,0,0,0.14),0px 6px 28px 5px rgba(0,0,0,0.12);
+--mud-elevation-16: 0px 8px 10px -5px rgba(0,0,0,0.2),0px 16px 24px 2px rgba(0,0,0,0.14),0px 6px 30px 5px rgba(0,0,0,0.12);
+--mud-elevation-17: 0px 8px 11px -5px rgba(0,0,0,0.2),0px 17px 26px 2px rgba(0,0,0,0.14),0px 6px 32px 5px rgba(0,0,0,0.12);
+--mud-elevation-18: 0px 9px 11px -5px rgba(0,0,0,0.2),0px 18px 28px 2px rgba(0,0,0,0.14),0px 7px 34px 6px rgba(0,0,0,0.12);
+--mud-elevation-19: 0px 9px 12px -6px rgba(0,0,0,0.2),0px 19px 29px 2px rgba(0,0,0,0.14),0px 7px 36px 6px rgba(0,0,0,0.12);
+--mud-elevation-20: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 20px 31px 3px rgba(0,0,0,0.14),0px 8px 38px 7px rgba(0,0,0,0.12);
+--mud-elevation-21: 0px 10px 13px -6px rgba(0,0,0,0.2),0px 21px 33px 3px rgba(0,0,0,0.14),0px 8px 40px 7px rgba(0,0,0,0.12);
+--mud-elevation-22: 0px 10px 14px -6px rgba(0,0,0,0.2),0px 22px 35px 3px rgba(0,0,0,0.14),0px 8px 42px 7px rgba(0,0,0,0.12);
+--mud-elevation-23: 0px 11px 14px -7px rgba(0,0,0,0.2),0px 23px 36px 3px rgba(0,0,0,0.14),0px 9px 44px 8px rgba(0,0,0,0.12);
+--mud-elevation-24: 0px 11px 15px -7px rgba(0,0,0,0.2),0px 24px 38px 3px rgba(0,0,0,0.14),0px 9px 46px 8px rgba(0,0,0,0.12);
+--mud-elevation-25: 0 5px 5px -3px rgba(0,0,0,.06), 0 8px 10px 1px rgba(0,0,0,.042), 0 3px 14px 2px rgba(0,0,0,.036);
+--mud-default-borderradius: 4px;
+--mud-drawer-width-left: 240px;
+--mud-drawer-width-right: 240px;
+--mud-drawer-width-mini-left: 56px;
+--mud-drawer-width-mini-right: 56px;
+--mud-appbar-height: 64px;
+--mud-typography-default-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-default-size: .875rem;
+--mud-typography-default-weight: 400;
+--mud-typography-default-lineheight: 1.43;
+--mud-typography-default-letterspacing: .01071em;
+--mud-typography-default-text-transform: none;
+--mud-typography-h1-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-h1-size: 2.5rem;
+--mud-typography-h1-weight: 300;
+--mud-typography-h1-lineheight: 1.167;
+--mud-typography-h1-letterspacing: -.01562em;
+--mud-typography-h1-text-transform: none;
+--mud-typography-h2-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-h2-size: 2rem;
+--mud-typography-h2-weight: 300;
+--mud-typography-h2-lineheight: 1.2;
+--mud-typography-h2-letterspacing: -.00833em;
+--mud-typography-h2-text-transform: none;
+--mud-typography-h3-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-h3-size: 1.75rem;
+--mud-typography-h3-weight: 400;
+--mud-typography-h3-lineheight: 1.167;
+--mud-typography-h3-letterspacing: 0;
+--mud-typography-h3-text-transform: none;
+--mud-typography-h4-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-h4-size: 1.5rem;
+--mud-typography-h4-weight: 400;
+--mud-typography-h4-lineheight: 1.235;
+--mud-typography-h4-letterspacing: .00735em;
+--mud-typography-h4-text-transform: none;
+--mud-typography-h5-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-h5-size: 1.25rem;
+--mud-typography-h5-weight: 400;
+--mud-typography-h5-lineheight: 1.334;
+--mud-typography-h5-letterspacing: 0;
+--mud-typography-h5-text-transform: none;
+--mud-typography-h6-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-h6-size: 1.25rem;
+--mud-typography-h6-weight: 500;
+--mud-typography-h6-lineheight: 1.6;
+--mud-typography-h6-letterspacing: .0075em;
+--mud-typography-h6-text-transform: none;
+--mud-typography-subtitle1-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-subtitle1-size: 1rem;
+--mud-typography-subtitle1-weight: 400;
+--mud-typography-subtitle1-lineheight: 1.75;
+--mud-typography-subtitle1-letterspacing: .00938em;
+--mud-typography-subtitle1-text-transform: none;
+--mud-typography-subtitle2-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-subtitle2-size: .875rem;
+--mud-typography-subtitle2-weight: 500;
+--mud-typography-subtitle2-lineheight: 1.57;
+--mud-typography-subtitle2-letterspacing: .00714em;
+--mud-typography-subtitle2-text-transform: none;
+--mud-typography-body1-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-body1-size: 1rem;
+--mud-typography-body1-weight: 400;
+--mud-typography-body1-lineheight: 1.5;
+--mud-typography-body1-letterspacing: .00938em;
+--mud-typography-body1-text-transform: none;
+--mud-typography-body2-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-body2-size: .875rem;
+--mud-typography-body2-weight: 400;
+--mud-typography-body2-lineheight: 1.43;
+--mud-typography-body2-letterspacing: .01071em;
+--mud-typography-body2-text-transform: none;
+--mud-typography-button-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-button-size: .875rem;
+--mud-typography-button-weight: 500;
+--mud-typography-button-lineheight: 1.75;
+--mud-typography-button-letterspacing: .02857em;
+--mud-typography-button-text-transform: uppercase;
+--mud-typography-caption-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-caption-size: .75rem;
+--mud-typography-caption-weight: 400;
+--mud-typography-caption-lineheight: 1.66;
+--mud-typography-caption-letterspacing: .03333em;
+--mud-typography-caption-text-transform: none;
+--mud-typography-overline-family: 'Roboto','Helvetica','Arial','sans-serif';
+--mud-typography-overline-size: .75rem;
+--mud-typography-overline-weight: 400;
+--mud-typography-overline-lineheight: 2.66;
+--mud-typography-overline-letterspacing: .08333em;
+--mud-typography-overline-text-transform: none;
+--mud-zindex-drawer: 1100;
+--mud-zindex-appbar: 1300;
+--mud-zindex-dialog: 1400;
+--mud-zindex-popover: 1200;
+--mud-zindex-snackbar: 1500;
+--mud-zindex-tooltip: 1600;
+--mud-native-html-color-scheme: dark;
+}
+</style>
+
+<div class="mud-popover-provider"></div>
+
+<div id="mud-snackbar-container" class="mud-snackbar-location-top-right"></div>
+
+<div class="mud-layout mud-drawer-open-responsive-md-left mud-drawer-left-clipped-always mud-drawer-open-responsive-md-right mud-drawer-right-clipped-always" style=""><header class="mud-appbar mud-appbar-fixed-top mud-elevation-1"><div role="toolbar" class="mud-toolbar mud-toolbar-gutters mud-toolbar-appbar">
+		
+		
+		
+		<div aria-hidden="true" class="flex-grow-1"></div>
+
+		<a type="button" href="https://github.com/VladislavAntonyuk/vladislavantonyuk.github.io/issues" target="_blank" rel="noopener" class="mud-button-root mud-button mud-button-filled mud-button-filled-primary mud-button-filled-size-medium mud-ripple"><span class="mud-button-label">
+			Submit Issue
+		</span></a>
+
+		<button aria-label="RSS" type="button" class="mud-button-root mud-icon-button mud-inherit-text hover:mud-inherit-hover mud-ripple mud-ripple-icon" __internal_stopPropagation_onclick><span class="mud-icon-button-label"><svg class="mud-icon-root mud-svg-icon mud-icon-size-medium" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><path d="M0 0h24v24H0z" fill="none"/><circle cx="6.18" cy="17.82" r="2.18"/><path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg></span></button></div></header>
+
+	<aside class="mud-drawer mud-drawer-fixed mud-drawer-pos-left mud-drawer--open mud-drawer--initial mud-drawer-md mud-drawer-clipped-always mud-elevation-1 mud-drawer-responsive" style=""><div class="mud-drawer-content"><nav class="mud-navmenu mud-navmenu-default mud-navmenu-margin-none"><div class="mud-nav-item"><a href="/" rel="" tabindex="0" class="mud-nav-link mud-ripple"><svg class="mud-icon-root mud-icon-default mud-svg-icon mud-icon-size-medium mud-nav-link-icon mud-nav-link-icon-default" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M19 5v2h-4V5h4M9 5v6H5V5h4m10 8v6h-4v-6h4M9 17v2H5v-2h4M21 3h-8v6h8V3zM11 3H3v10h8V3zm10 8h-8v10h8V11zm-10 4H3v6h8v-6z"/></svg><div class="mud-nav-link-text">Home</div></a></div>
+	<div class="mud-nav-item"><a href="/projects" rel="" tabindex="0" class="mud-nav-link mud-ripple"><svg class="mud-icon-root mud-icon-default mud-svg-icon mud-icon-size-medium mud-nav-link-icon mud-nav-link-icon-default" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M11 7h2v2h-2zm0 4h2v6h-2zm1-9C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/></svg><div class="mud-nav-link-text">Projects</div></a></div>
+	<div class="mud-nav-item"><a href="/publications" rel="" tabindex="0" class="mud-nav-link mud-ripple"><svg class="mud-icon-root mud-icon-default mud-svg-icon mud-icon-size-medium mud-nav-link-icon mud-nav-link-icon-default" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M21 3H3c-1.1 0-2 .9-2 2v3h2V5h18v14h-7v2h7c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM1 18v3h3c0-1.66-1.34-3-3-3zm0-4v2c2.76 0 5 2.24 5 5h2c0-3.87-3.13-7-7-7zm0-4v2c4.97 0 9 4.03 9 9h2c0-6.08-4.93-11-11-11zm10 1.09v2L14.5 15l3.5-1.91v-2L14.5 13 11 11.09zM14.5 6L9 9l5.5 3L20 9l-5.5-3z"/></svg><div class="mud-nav-link-text">Publications</div></a></div>
+	<div class="mud-nav-item"><a href="/events" rel="" tabindex="0" class="mud-nav-link mud-ripple"><svg class="mud-icon-root mud-icon-default mud-svg-icon mud-icon-size-medium mud-nav-link-icon mud-nav-link-icon-default" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M19 4h-1V2h-2v2H8V2H6v2H5c-1.11 0-1.99.9-1.99 2L3 20c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 16H5V10h14v10zm0-12H5V6h14v2zm-7 5h5v5h-5z"/></svg><div class="mud-nav-link-text">Events</div></a></div></nav>
+		<h5 class="mud-typography mud-typography-h5 mud-typography-align-center">Categories</h5>
+<nav class="mud-navmenu mud-navmenu-default mud-navmenu-margin-none"><div class="mud-nav-item"><div class="mud-nav-link mud-ripple" tabindex="0"><svg class="mud-icon-root mud-icon-default mud-svg-icon mud-icon-size-medium mud-nav-link-icon mud-nav-link-icon-default" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><g><rect fill="none" height="24" width="24"/></g><g><path d="M20,10V8h-4V4h-2v4h-4V4H8v4H4v2h4v4H4v2h4v4h2v-4h4v4h2v-4h4v-2h-4v-4H20z M14,14h-4v-4h4V14z"/></g></svg><div class="mud-nav-link-text">.NET MAUI/Xamarin (46)</div></div></div><div class="mud-nav-item"><div class="mud-nav-link mud-ripple" tabindex="0"><svg class="mud-icon-root mud-icon-default mud-svg-icon mud-icon-size-medium mud-nav-link-icon mud-nav-link-icon-default" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><g><rect fill="none" height="24" width="24"/></g><g><path d="M20,10V8h-4V4h-2v4h-4V4H8v4H4v2h4v4H4v2h4v4h2v-4h4v4h2v-4h4v-2h-4v-4H20z M14,14h-4v-4h4V14z"/></g></svg><div class="mud-nav-link-text">.NET (8)</div></div></div><div class="mud-nav-item"><div class="mud-nav-link mud-ripple" tabindex="0"><svg class="mud-icon-root mud-icon-default mud-svg-icon mud-icon-size-medium mud-nav-link-icon mud-nav-link-icon-default" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><g><rect fill="none" height="24" width="24"/></g><g><path d="M20,10V8h-4V4h-2v4h-4V4H8v4H4v2h4v4H4v2h4v4h2v-4h4v4h2v-4h4v-2h-4v-4H20z M14,14h-4v-4h4V14z"/></g></svg><div class="mud-nav-link-text">Blazor (3)</div></div></div><div class="mud-nav-item"><div class="mud-nav-link mud-ripple" tabindex="0"><svg class="mud-icon-root mud-icon-default mud-svg-icon mud-icon-size-medium mud-nav-link-icon mud-nav-link-icon-default" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><g><rect fill="none" height="24" width="24"/></g><g><path d="M20,10V8h-4V4h-2v4h-4V4H8v4H4v2h4v4H4v2h4v4h2v-4h4v4h2v-4h4v-2h-4v-4H20z M14,14h-4v-4h4V14z"/></g></svg><div class="mud-nav-link-text">Azure (3)</div></div></div><div class="mud-nav-item"><div class="mud-nav-link mud-ripple" tabindex="0"><svg class="mud-icon-root mud-icon-default mud-svg-icon mud-icon-size-medium mud-nav-link-icon mud-nav-link-icon-default" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><g><rect fill="none" height="24" width="24"/></g><g><path d="M20,10V8h-4V4h-2v4h-4V4H8v4H4v2h4v4H4v2h4v4h2v-4h4v4h2v-4h4v-2h-4v-4H20z M14,14h-4v-4h4V14z"/></g></svg><div class="mud-nav-link-text">General (2)</div></div></div></nav>
+		<div role="group" class="d-flex flex-row justify-center gap-3"><a type="button" href="https://www.youtube.com/c/VladislavAntonyuk" target="_blank" rel="noopener" class="mud-button-root mud-icon-button mud-ripple mud-ripple-icon"><span class="mud-icon-button-label"><svg class="mud-icon-root mud-svg-icon mud-icon-size-medium" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><path d="M10 15l5.19-3L10 9v6m11.56-7.83c.13.47.22 1.1.28 1.9.07.8.1 1.49.1 2.09L22 12c0 2.19-.16 3.8-.44 4.83-.25.9-.83 1.48-1.73 1.73-.47.13-1.33.22-2.65.28-1.3.07-2.49.1-3.59.1L12 19c-4.19 0-6.8-.16-7.83-.44-.9-.25-1.48-.83-1.73-1.73-.13-.47-.22-1.1-.28-1.9-.07-.8-.1-1.49-.1-2.09L2 12c0-2.19.16-3.8.44-4.83.25-.9.83-1.48 1.73-1.73.47-.13 1.33-.22 2.65-.28 1.3-.07 2.49-.1 3.59-.1L12 5c4.19 0 6.8.16 7.83.44.9.25 1.48.83 1.73 1.73z"/></svg></span></a>
+			<a type="button" href="https://github.com/VladislavAntonyuk" target="_blank" rel="noopener" class="mud-button-root mud-icon-button mud-ripple mud-ripple-icon"><span class="mud-icon-button-label"><svg class="mud-icon-root mud-svg-icon mud-icon-size-medium" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><path d="M12 .3a12 12 0 0 0-3.8 23.4c.6.1.8-.3.8-.6v-2c-3.3.7-4-1.6-4-1.6-.6-1.4-1.4-1.8-1.4-1.8-1-.7.1-.7.1-.7 1.2 0 1.9 1.2 1.9 1.2 1 1.8 2.8 1.3 3.5 1 0-.8.4-1.3.7-1.6-2.7-.3-5.5-1.3-5.5-6 0-1.2.5-2.3 1.3-3.1-.2-.4-.6-1.6 0-3.2 0 0 1-.3 3.4 1.2a11.5 11.5 0 0 1 6 0c2.3-1.5 3.3-1.2 3.3-1.2.6 1.6.2 2.8 0 3.2.9.8 1.3 1.9 1.3 3.2 0 4.6-2.8 5.6-5.5 5.9.5.4.9 1 .9 2.2v3.3c0 .3.1.7.8.6A12 12 0 0 0 12 .3"/></svg></span></a>
+			<a type="button" href="https://www.linkedin.com/in/vladislav-antonyuk/" target="_blank" rel="noopener" class="mud-button-root mud-icon-button mud-ripple mud-ripple-icon"><span class="mud-icon-button-label"><svg class="mud-icon-root mud-svg-icon mud-icon-size-medium" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.79M6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37h2.77z"/></svg></span></a></div>
+		<a href="https://www.buymeacoffee.com/vlad.antonyuk" target="_blank" class="mud-typography mud-link mud-primary-text mud-link-underline-hover mud-typography-body1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" class="mud-image fluid object-fill object-center side-image" /></a>
+		<a href="https://mvp.microsoft.com/en-us/PublicProfile/5005304" class="mud-typography mud-link mud-primary-text mud-link-underline-hover mud-typography-body1"><img src="https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/misc/MVP_Badge_Horizontal_Preferred_Blue3005_RGB.png" alt="MVP" class="mud-image fluid object-fill object-center side-image" /></a>
+		<img src="https://img.shields.io/badge/made_in-ukraine-ffd700.svg?labelColor=0057b7" alt="Made in Ukraine" class="mud-image fluid object-contain object-center side-image" />
+		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2260920996164852" data-ad-slot="1005616791" data-ad-format="auto" data-full-width-responsive="true"></ins></div></aside>
+
+
+	<div class="mud-main-content"><div class="mud-container mud-container-maxwidth-false mud-container--gutters">
+<div class="article"><img src="https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/59/59.png" alt="Free offline AI in .NET MAUI Application" class="mud-image fluid object-fill object-center" /><h1 class="mud-typography mud-typography-h1">Free offline AI in .NET MAUI Application</h1>
+		<div role="group" class="d-flex flex-row justify-space-between gap-3"><p class="mud-typography mud-typography-body1"><svg class="mud-icon-root mud-svg-icon mud-icon-size-small" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><g><rect fill="none" height="24" width="24"/></g><g><path d="M19,4h-1V2h-2v2H8V2H6v2H5C3.89,4,3.01,4.9,3.01,6L3,20c0,1.1,0.89,2,2,2h14c1.1,0,2-0.9,2-2V6C21,4.9,20.1,4,19,4z M19,20 H5V10h14V20z M9,14H7v-2h2V14z M13,14h-2v-2h2V14z M17,14h-2v-2h2V14z M9,18H7v-2h2V18z M13,18h-2v-2h2V18z M17,18h-2v-2h2V18z"/></g></svg>
+				30 October 2024</p>
+			
+			<p class="mud-typography mud-typography-body1 mud-typography-align-right"><svg class="mud-icon-root mud-svg-icon mud-icon-size-small" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><path d="M20 10V8h-4V4h-2v4h-4V4H8v4H4v2h4v4H4v2h4v4h2v-4h4v4h2v-4h4v-2h-4v-4h4zm-6 4h-4v-4h4v4z"/></svg>
+				.NET MAUI/Xamarin</p></div>
+		
+		<a href="https://www.buymeacoffee.com/vlad.antonyuk" target="_blank" class="mud-typography mud-link mud-primary-text mud-link-underline-hover mud-typography-body1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" class="mud-image fluid object-fill object-center side-image" /></a>
+		<p class="mud-typography mud-typography-body1 mud-typography-align-justify"><article class="mud-markdown-body"><p class="mud-typography mud-typography-body1">Hello! &#x1F44B;</p><p class="mud-typography mud-typography-body1">Today we continue exploring AI capabilities in .NET.</p><p class="mud-typography mud-typography-body1">Artificial Intelligence (AI) capabilities have become essential in modern applications. However, leveraging AI often involves cloud-based APIs, which can be limited by connectivity and recurring costs. For developers building applications with .NET MAUI, LLamaSharp offers an excellent solution for running AI models locally, without requiring an internet connection. By integrating LLamaSharp, developers can achieve efficient offline execution of large language models (LLMs).</p><p class="mud-typography mud-typography-body1">This article provides a step-by-step guide to integrating LLamaSharp into your .NET MAUI application.</p><h2 id="what-is-llamasharp?" class="mud-typography mud-typography-h2">What is LLamaSharp?</h2><p class="mud-typography mud-typography-body1">LLamaSharp is a .NET wrapper around LLaMA (Large Language Model Meta AI), enabling the execution of LLaMA models in .NET applications. With LLamaSharp, developers can perform inference directly on the user&#x27;s device, avoiding the need for cloud-based AI services.</p><h2 id="setting-up-your-.net-maui-application-with-llamasharp" class="mud-typography mud-typography-h2">Setting Up Your .NET MAUI Application with LLamaSharp</h2><h3 id="step-1-install-llamasharp-nuget-package" class="mud-typography mud-typography-h3">Step 1: Install LLamaSharp NuGet Package</h3><p class="mud-typography mud-typography-body1">Open your .NET MAUI project and install the LLamaSharp NuGet packages and one or more of these backends depending on your target device:</p><ul><li><p class="mud-typography mud-typography-body1">LLamaSharp.Backend.Cpu: Pure CPU for Windows, Linux &amp; Mac. Metal (GPU) support for Mac.</p></li><li><p class="mud-typography mud-typography-body1">LLamaSharp.Backend.Cuda11: CUDA 11 for Windows &amp; Linux.</p></li><li><p class="mud-typography mud-typography-body1">LLamaSharp.Backend.Cuda12: CUDA 12 for Windows &amp; Linux.</p></li><li><p class="mud-typography mud-typography-body1">LLamaSharp.Backend.Vulkan: Vulkan for Windows &amp; Linux.</p></li></ul><p class="mud-typography mud-typography-body1">My configuration for Windows with Vulkan backend:</p><div class="snippet-clipboard-content overflow-auto"><button type="button" class="mud-button-root mud-icon-button mud-button mud-button-filled mud-button-filled-primary mud-button-filled-size-medium mud-ripple snippet-clipboard-copy-icon ma-2" __internal_stopPropagation_onclick><span class="mud-icon-button-label"><svg class="mud-icon-root mud-svg-icon mud-icon-size-medium" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><g><rect fill="none" height="24" width="24"/></g><g><path d="M15,20H5V7c0-0.55-0.45-1-1-1h0C3.45,6,3,6.45,3,7v13c0,1.1,0.9,2,2,2h10c0.55,0,1-0.45,1-1v0C16,20.45,15.55,20,15,20z M20,16V4c0-1.1-0.9-2-2-2H9C7.9,2,7,2.9,7,4v12c0,1.1,0.9,2,2,2h9C19.1,18,20,17.1,20,16z M18,16H9V4h9V16z"/></g></svg></span></button><pre><code class="hljs language-bash"></code></pre></div><h3 id="step-2-prepare-your-llama-model" class="mud-typography mud-typography-h3">Step 2: Prepare Your LLaMA Model</h3><p class="mud-typography mud-typography-body1">Download a compatible LLaMA model from Ollama or another source. Ensure that the model is in a format supported by LLamaSharp. Save the model file in your application&#x27;s resources or a known path.</p><p class="mud-typography mud-typography-body1">There are two popular formats of model files of LLMs, these are PyTorch format (.pth) and Huggingface format (.bin). LLamaSharp uses a <code>GGUF</code> format file, which can be converted from these two formats. To get a <code>GGUF</code> file, search model name &#x2B; &#x27;gguf&#x27; in <a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer" class="mud-typography mud-link mud-primary-text mud-link-underline-hover mud-typography-body1">Huggingface</a>.</p><p class="mud-typography mud-typography-body1">I downloaded the <code>Llama 3.1</code> model (<a href="https://huggingface.co/cognitivecomputations/dolphin-2.9.4-llama3.1-8b-gguf" target="_blank" rel="noopener noreferrer" class="mud-typography mud-link mud-primary-text mud-link-underline-hover mud-typography-body1">Link</a>).</p><h3 id="step-3-integrate-llamasharp-into-your-.net-maui-project" class="mud-typography mud-typography-h3">Step 3: Integrate LLamaSharp into Your .NET MAUI Project</h3><p class="mud-typography mud-typography-body1">Create a service for loading and running the LLaMA model:</p><div class="snippet-clipboard-content overflow-auto"><button type="button" class="mud-button-root mud-icon-button mud-button mud-button-filled mud-button-filled-primary mud-button-filled-size-medium mud-ripple snippet-clipboard-copy-icon ma-2" __internal_stopPropagation_onclick><span class="mud-icon-button-label"><svg class="mud-icon-root mud-svg-icon mud-icon-size-medium" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><g><rect fill="none" height="24" width="24"/></g><g><path d="M15,20H5V7c0-0.55-0.45-1-1-1h0C3.45,6,3,6.45,3,7v13c0,1.1,0.9,2,2,2h10c0.55,0,1-0.45,1-1v0C16,20.45,15.55,20,15,20z M20,16V4c0-1.1-0.9-2-2-2H9C7.9,2,7,2.9,7,4v12c0,1.1,0.9,2,2,2h9C19.1,18,20,17.1,20,16z M18,16H9V4h9V16z"/></g></svg></span></button><pre><code class="hljs language-csharp"></code></pre></div><p class="mud-typography mud-typography-body1">For my sample app I received the next output:</p><p class="mud-typography mud-typography-body1"><img src="https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/59/ai.png" alt=".NET MAUI LlamaSharp" class="mud-image object-fill object-center mud-elevation-25 rounded-lg" /></p><h3 id="step-4-optimize-for-device-performance" class="mud-typography mud-typography-h3">Step 4: Optimize for Device Performance</h3><p class="mud-typography mud-typography-body1">Running large models locally can be resource-intensive. To ensure smooth performance:</p><ul><li><p class="mud-typography mud-typography-body1"><b>Reduce Model Size</b>: Use smaller versions of LLaMA models, such as LLaMA-3B or quantized variants.</p></li><li><p class="mud-typography mud-typography-body1"><b>Adjust Context Size</b>: Configure the context size to balance performance and output quality.</p></li><li><p class="mud-typography mud-typography-body1"><b>Test on Target Devices</b>: Test your application on actual devices, particularly lower-powered ones.</p></li></ul><h2 id="conclusion" class="mud-typography mud-typography-h2">Conclusion</h2><p class="mud-typography mud-typography-body1">With LLamaSharp, .NET MAUI developers can incorporate cutting-edge AI into their applications without relying on internet connectivity or incurring cloud costs. This approach is ideal for privacy-focused, offline, or internal-use apps.</p><p class="mud-typography mud-typography-body1">Start exploring the potential of offline AI today and take your .NET MAUI applications to the next level!</p><p class="mud-typography mud-typography-body1">The full code can be found on <a href="https://github.com/VladislavAntonyuk/AspireSamples/tree/main/MauiAspireOllama" target="_blank" rel="noopener noreferrer" class="mud-typography mud-link mud-primary-text mud-link-underline-hover mud-typography-body1">GitHub</a>.</p></article></p>
+		<a href="https://www.buymeacoffee.com/vlad.antonyuk" target="_blank" class="mud-typography mud-link mud-primary-text mud-link-underline-hover mud-typography-body1"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" class="mud-image fluid object-fill object-center side-image" /></a></div><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2260920996164852" data-ad-slot="1656353485" data-ad-format="auto" data-full-width-responsive="true"></ins><h2 class="mud-typography mud-typography-h2">Related:</h2><div class="mud-grid mud-grid-spacing-xs-6 justify-start"><div class="mud-grid-item mud-grid-item-sm-6"><div class="mud-paper mud-elevation-1 mud-card" style="height: 100%;"><div class="mud-card-media" style="background-image:url(&quot;https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/25/logo.gif&quot;);height: 300px;;background-size: contain;"></div><div class="mud-card-content"><h3 class="mud-typography mud-typography-h3">Extend .NET MAUI application with iOS Extensions</h3>
+						<p class="mud-typography mud-typography-body1">Extend the .NET MAUI application with iOS App Extension in 5 steps.</p></div>
+					<div class="mud-card-actions"><a href="https://vladislavantonyuk.github.io/articles/Extend-.NET-MAUI-application-with-iOS-Extensions/" class="mud-typography mud-link mud-primary-text mud-link-underline-hover mud-typography-body1">Read full article</a></div></div></div><div class="mud-grid-item mud-grid-item-sm-6"><div class="mud-paper mud-elevation-1 mud-card" style="height: 100%;"><div class="mud-card-media" style="background-image:url(&quot;https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/46/46.png&quot;);height: 300px;;background-size: contain;"></div><div class="mud-card-content"><h3 class="mud-typography mud-typography-h3">Adding Application Insights to .NET MAUI Application</h3>
+						<p class="mud-typography mud-typography-body1">This article provides an in-depth exploration into how you can integrate Microsoft&#x27;s Application Insights into your .NET MAUI application. A comparative study between Microsoft AppCenter and Application Insights is also highlighted, demystifying the inherent advantage of Application Insights in application management and analytics.</p></div>
+					<div class="mud-card-actions"><a href="https://vladislavantonyuk.github.io/articles/Adding-Application-Insights-to-.NET-MAUI-Application/" class="mud-typography mud-link mud-primary-text mud-link-underline-hover mud-typography-body1">Read full article</a></div></div></div></div><div class="mud-paper mud-elevation-1 mt-4" style=""><giscus-widget host="https://giscus.app" repo="VladislavAntonyuk/vladislavantonyuk.github.io" repoid="R_kgDOImU4iA" category="Announcements" categoryid="DIC_kwDOImU4iM4CYqI2" mapping="title" strict="0" reactionsenabled="1" emitmetadata="0" inputposition="top" theme="preferred_color_scheme" lang="en" loading="lazy"></giscus-widget></div>
+
+			<span class="mud-scroll-to-top hidden" style="width:64px;height:64px;bottom:96px;z-index: 10000;"><button type="button" class="mud-button-root mud-fab mud-fab-primary mud-fab-size-large mud-ripple" style="width:64px;height:64px" __internal_stopPropagation_onclick><span class="mud-fab-label"><svg class="mud-icon-root mud-svg-icon mud-icon-size-medium" focusable="false" viewBox="0 0 24 24" aria-hidden="true" role="img"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M4 12l1.41 1.41L11 7.83V20h2V7.83l5.58 5.59L20 12l-8-8-8 8z"/></svg></span></button></span></div></div>
+
+	<aside class="mud-drawer mud-drawer-fixed mud-drawer-pos-right mud-drawer--open mud-drawer--initial mud-drawer-md mud-drawer-clipped-always mud-elevation-1 mud-drawer-responsive" style=""><div class="mud-drawer-content"><a href="https://www.courses.milanjovanovic.tech/a/aff_l825rpg0/external?affcode=1486372_ffmooc4t" class="mud-typography mud-link mud-primary-text mud-link-underline-hover mud-typography-h3"><img src="https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/misc/mma_cover_1.png" alt="Modular Monolith Architecture" class="mud-image fluid object-fill object-center side-image" />
+
+	Modular Monolith Architecture
+</a>
+
+<p class="mud-typography mud-typography-body1">This in-depth course will transform the way you build modern systems. You will learn the best practices for applying the Modular Monolith architecture in a real-world scenario. It contains Everything you need to build and scale a modular monolith system.</p>
+
+<a href="https://www.courses.milanjovanovic.tech/a/aff_q2snzxhl/external?affcode=1486372_ffmooc4t" class="mud-typography mud-link mud-primary-text mud-link-underline-hover mud-typography-h3 mt-4"><img src="https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/misc/pca_cover_1.png" alt="Pragmatic Clean Architecture" class="mud-image fluid object-fill object-center side-image" />
+
+	Pragmatic Clean Architecture
+</a>
+
+<p class="mud-typography mud-typography-body1">This comprehensive course will teach you the system I use to ship production-ready applications using Clean Architecture. Learn how to apply the best practices of modern software architecture. It contains Everything You Need To Build Production-Ready Applications With Clean Architecture.</p>
+		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2260920996164852" data-ad-slot="1173073065" data-ad-format="auto" data-full-width-responsive="true"></ins></div></aside>
+</div>
+        <blazor-focus-on-navigate selector="h1"></blazor-focus-on-navigate>
+<!-- %%-PRERENDERING-END-%% -->
+</div>
+
+<div id="blazor-error-ui">
+    An unhandled error has occurred.
+    <a class="reload" href="https://vladislavantonyuk.github.io">Reload</a>
+    <p class="dismiss">🗙</p>
+</div>
+
+<script type="module" src="https://cdn.esm.sh/giscus?bundle"></script>
+<script src="https://vladislavantonyuk.github.io/js/VladislavAntonyuk.js"></script>
+<script src="https://vladislavantonyuk.github.io/_content/MudBlazor/MudBlazor.min.js"></script>
+<script src="https://vladislavantonyuk.github.io/_content/MudBlazor.Markdown/MudBlazor.Markdown.min.js"></script>
+<script src="https://vladislavantonyuk.github.io/_framework/blazor.webassembly.js"></script>
+<script async="" src="https://vladislavantonyuk.github.io/js/PureSnow.js"></script>
+<script data-cfasync="false" data-color="#5F7FFF" data-description="Support me on Buy me a coffee!" data-id="vlad.antonyuk" data-message="" data-name="BMC-Widget" data-position="right" data-x_margin="16" data-y_margin="16" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js"></script>
+
+
+
+</body></html>

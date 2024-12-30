@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title><![CDATA[Vladislav Antonyuk]]></title>
+    <link>https://vladislavantonyuk.github.io</link>
+    <atom:link href="https://vladislavantonyuk.github.io/rss/" rel="self" type="application/rss+xml" />
+    <description><![CDATA[Vladislav Antonyuk - Articles]]></description>
+    <lastBuildDate>Mon, 30 Dec 2024 15:33:27 GMT</lastBuildDate>
+    <item>
+      <title><![CDATA[Efficiently Writing Excel Files with Optimized Memory Usage]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Efficiently-Writing-Excel-Files-with-Optimized-Memory-Usage/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Efficiently-Writing-Excel-Files-with-Optimized-Memory-Usage/</guid>
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[<p></p><a href='https://vladislavantonyuk.github.io/articles/Efficiently-Writing-Excel-Files-with-Optimized-Memory-Usage/'>https://vladislavantonyuk.github.io/articles/Efficiently-Writing-Excel-Files-with-Optimized-Memory-Usage/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Nesting .NET MAUI .xaml Files in Visual Studio Code]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Nesting-.NET-MAUI-.xaml-Files-in-Visual-Studio-Code/</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Nesting-.NET-MAUI-.xaml-Files-in-Visual-Studio-Code/</guid>
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[<p></p><a href='https://vladislavantonyuk.github.io/articles/Nesting-.NET-MAUI-.xaml-Files-in-Visual-Studio-Code/'>https://vladislavantonyuk.github.io/articles/Nesting-.NET-MAUI-.xaml-Files-in-Visual-Studio-Code/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Free offline AI in .NET MAUI Application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Free-offline-AI-in-.NET-MAUI-Application/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Free-offline-AI-in-.NET-MAUI-Application/</guid>
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[<p></p><a href='https://vladislavantonyuk.github.io/articles/Free-offline-AI-in-.NET-MAUI-Application/'>https://vladislavantonyuk.github.io/articles/Free-offline-AI-in-.NET-MAUI-Application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Leveraging Free AI with Ollama in .NET Aspire]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Leveraging-Free-AI-with-Ollama-in-.NET-Aspire/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Leveraging-Free-AI-with-Ollama-in-.NET-Aspire/</guid>
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[<p></p><a href='https://vladislavantonyuk.github.io/articles/Leveraging-Free-AI-with-Ollama-in-.NET-Aspire/'>https://vladislavantonyuk.github.io/articles/Leveraging-Free-AI-with-Ollama-in-.NET-Aspire/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Azure Active Directory authentication in .NET Aspire Distributed Application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Azure-Active-Directory-authentication-in-.NET-Aspire-Distributed-Application/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Azure-Active-Directory-authentication-in-.NET-Aspire-Distributed-Application/</guid>
+      <description><![CDATA[]]></description>
+      <content:encoded><![CDATA[<p></p><a href='https://vladislavantonyuk.github.io/articles/Azure-Active-Directory-authentication-in-.NET-Aspire-Distributed-Application/'>https://vladislavantonyuk.github.io/articles/Azure-Active-Directory-authentication-in-.NET-Aspire-Distributed-Application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Various methods for barcode scanning in .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Various-methods-for-barcode-scanning-in-.NET-MAUI/</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Various-methods-for-barcode-scanning-in-.NET-MAUI/</guid>
+      <description><![CDATA[This article explores three methods: using MLKit for Android, Camera.MAUI.ZXing, and CommunityToolkit.Maui.Camera.]]></description>
+      <content:encoded><![CDATA[<p>This article explores three methods: using MLKit for Android, Camera.MAUI.ZXing, and CommunityToolkit.Maui.Camera.</p><a href='https://vladislavantonyuk.github.io/articles/Various-methods-for-barcode-scanning-in-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/Various-methods-for-barcode-scanning-in-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Simplifying .NET MAUI App Development with Debugging and Monitoring Tools]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Simplifying-.NET-MAUI-App-Development-with-Debugging-and-Monitoring-Tools/</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Simplifying-.NET-MAUI-App-Development-with-Debugging-and-Monitoring-Tools/</guid>
+      <description><![CDATA[Simplifying .NET MAUI App Development: Debugging and Monitoring Tools.]]></description>
+      <content:encoded><![CDATA[<p>Simplifying .NET MAUI App Development: Debugging and Monitoring Tools.</p><a href='https://vladislavantonyuk.github.io/articles/Simplifying-.NET-MAUI-App-Development-with-Debugging-and-Monitoring-Tools/'>https://vladislavantonyuk.github.io/articles/Simplifying-.NET-MAUI-App-Development-with-Debugging-and-Monitoring-Tools/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[.NET MAUI CollectionView with Staggered Layout]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/.NET-MAUI-CollectionView-with-Staggered-Layout/</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/.NET-MAUI-CollectionView-with-Staggered-Layout/</guid>
+      <description><![CDATA[Create a Staggered Layout for CollectionView in .NET MAUI.]]></description>
+      <content:encoded><![CDATA[<p>Create a Staggered Layout for CollectionView in .NET MAUI.</p><a href='https://vladislavantonyuk.github.io/articles/.NET-MAUI-CollectionView-with-Staggered-Layout/'>https://vladislavantonyuk.github.io/articles/.NET-MAUI-CollectionView-with-Staggered-Layout/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Choose the right framework for your next application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Choose-the-right-framework-for-your-next-application/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Choose-the-right-framework-for-your-next-application/</guid>
+      <description><![CDATA[A Deep Dive into .NET MAUI, Uno, and Avalonia.]]></description>
+      <content:encoded><![CDATA[<p>A Deep Dive into .NET MAUI, Uno, and Avalonia.</p><a href='https://vladislavantonyuk.github.io/articles/Choose-the-right-framework-for-your-next-application/'>https://vladislavantonyuk.github.io/articles/Choose-the-right-framework-for-your-next-application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Targeting Specific Runtimes for Platform Tests]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Targeting-Specific-Runtimes-for-Platform-Tests/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Targeting-Specific-Runtimes-for-Platform-Tests/</guid>
+      <description><![CDATA[This article tackles targeted platform testing, enabling you to isolate tests for specific runtime environments, boosting development efficiency and application robustness.]]></description>
+      <content:encoded><![CDATA[<p>This article tackles targeted platform testing, enabling you to isolate tests for specific runtime environments, boosting development efficiency and application robustness.</p><a href='https://vladislavantonyuk.github.io/articles/Targeting-Specific-Runtimes-for-Platform-Tests/'>https://vladislavantonyuk.github.io/articles/Targeting-Specific-Runtimes-for-Platform-Tests/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Testing .NET MAUI Application using Appium and xUnit]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Testing-.NET-MAUI-Application-using-Appium-and-xUnit/</link>
+      <pubDate>Thu, 29 Feb 2024 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Testing-.NET-MAUI-Application-using-Appium-and-xUnit/</guid>
+      <description><![CDATA[Elevate your .NET MAUI application testing with precision using Appium and xUnit.]]></description>
+      <content:encoded><![CDATA[<p>Elevate your .NET MAUI application testing with precision using Appium and xUnit.</p><a href='https://vladislavantonyuk.github.io/articles/Testing-.NET-MAUI-Application-using-Appium-and-xUnit/'>https://vladislavantonyuk.github.io/articles/Testing-.NET-MAUI-Application-using-Appium-and-xUnit/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Effortless Android Library Binding]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Effortless-Android-Library-Binding/</link>
+      <pubDate>Fri, 12 Jan 2024 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Effortless-Android-Library-Binding/</guid>
+      <description><![CDATA[Bind Java libraries directly from Maven repositories.]]></description>
+      <content:encoded><![CDATA[<p>Bind Java libraries directly from Maven repositories.</p><a href='https://vladislavantonyuk.github.io/articles/Effortless-Android-Library-Binding/'>https://vladislavantonyuk.github.io/articles/Effortless-Android-Library-Binding/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Creating CalendarView with .NET MAUI Handler architecture]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Creating-CalendarView-with-.NET-MAUI-Handler-architecture/</link>
+      <pubDate>Sun, 24 Dec 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Creating-CalendarView-with-.NET-MAUI-Handler-architecture/</guid>
+      <description><![CDATA[Explore the creation of a CalendarView control in .NET MAUI using Handler architecture.]]></description>
+      <content:encoded><![CDATA[<p>Explore the creation of a CalendarView control in .NET MAUI using Handler architecture.</p><a href='https://vladislavantonyuk.github.io/articles/Creating-CalendarView-with-.NET-MAUI-Handler-architecture/'>https://vladislavantonyuk.github.io/articles/Creating-CalendarView-with-.NET-MAUI-Handler-architecture/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Mastering Composite Controls in .NET MAUI. Building a TabView from Scratch]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Mastering-Composite-Controls-in-.NET-MAUI.-Building-a-TabView-from-Scratch/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Mastering-Composite-Controls-in-.NET-MAUI.-Building-a-TabView-from-Scratch/</guid>
+      <description><![CDATA[Explore the creation of a custom TabView control in .NET MAUI using multiple methods like composing IndicatorView and CarouselView or ContentView with RadioButtons.]]></description>
+      <content:encoded><![CDATA[<p>Explore the creation of a custom TabView control in .NET MAUI using multiple methods like composing IndicatorView and CarouselView or ContentView with RadioButtons.</p><a href='https://vladislavantonyuk.github.io/articles/Mastering-Composite-Controls-in-.NET-MAUI.-Building-a-TabView-from-Scratch/'>https://vladislavantonyuk.github.io/articles/Mastering-Composite-Controls-in-.NET-MAUI.-Building-a-TabView-from-Scratch/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Microsoft Identity Platform Authentication in Blazor Web Application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Microsoft-Identity-Platform-Authentication-in-Blazor-Web-Application/</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Microsoft-Identity-Platform-Authentication-in-Blazor-Web-Application/</guid>
+      <description><![CDATA[Adding Microsoft Entra ID B2C in .NET 8 Blazor WebApp.]]></description>
+      <content:encoded><![CDATA[<p>Adding Microsoft Entra ID B2C in .NET 8 Blazor WebApp.</p><a href='https://vladislavantonyuk.github.io/articles/Microsoft-Identity-Platform-Authentication-in-Blazor-Web-Application/'>https://vladislavantonyuk.github.io/articles/Microsoft-Identity-Platform-Authentication-in-Blazor-Web-Application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Adding Application Insights to .NET MAUI Application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Adding-Application-Insights-to-.NET-MAUI-Application/</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Adding-Application-Insights-to-.NET-MAUI-Application/</guid>
+      <description><![CDATA[This article provides an in-depth exploration into how you can integrate Microsoft's Application Insights into your .NET MAUI application. A comparative study between Microsoft AppCenter and Application Insights is also highlighted, demystifying the inherent advantage of Application Insights in application management and analytics.]]></description>
+      <content:encoded><![CDATA[<p>This article provides an in-depth exploration into how you can integrate Microsoft's Application Insights into your .NET MAUI application. A comparative study between Microsoft AppCenter and Application Insights is also highlighted, demystifying the inherent advantage of Application Insights in application management and analytics.</p><a href='https://vladislavantonyuk.github.io/articles/Adding-Application-Insights-to-.NET-MAUI-Application/'>https://vladislavantonyuk.github.io/articles/Adding-Application-Insights-to-.NET-MAUI-Application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[.NET MAUI Push Notifications using Azure Notification Hub. Part 2. Setup .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/.NET-MAUI-Push-Notifications-using-Azure-Notification-Hub.-Part-2.-Setup-.NET-MAUI/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/.NET-MAUI-Push-Notifications-using-Azure-Notification-Hub.-Part-2.-Setup-.NET-MAUI/</guid>
+      <description><![CDATA[The article demonstrates how to add push notifications to .NET MAUI application using Azure Notification Hub.]]></description>
+      <content:encoded><![CDATA[<p>The article demonstrates how to add push notifications to .NET MAUI application using Azure Notification Hub.</p><a href='https://vladislavantonyuk.github.io/articles/.NET-MAUI-Push-Notifications-using-Azure-Notification-Hub.-Part-2.-Setup-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/.NET-MAUI-Push-Notifications-using-Azure-Notification-Hub.-Part-2.-Setup-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[.NET MAUI Push Notifications using Azure Notification Hub. Part 1. Setup Azure Notification Hub]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/.NET-MAUI-Push-Notifications-using-Azure-Notification-Hub.-Part-1.-Setup-Azure-Notification-Hub/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/.NET-MAUI-Push-Notifications-using-Azure-Notification-Hub.-Part-1.-Setup-Azure-Notification-Hub/</guid>
+      <description><![CDATA[The article demonstrates how to add push notifications to .NET MAUI application using Azure Notification Hub.]]></description>
+      <content:encoded><![CDATA[<p>The article demonstrates how to add push notifications to .NET MAUI application using Azure Notification Hub.</p><a href='https://vladislavantonyuk.github.io/articles/.NET-MAUI-Push-Notifications-using-Azure-Notification-Hub.-Part-1.-Setup-Azure-Notification-Hub/'>https://vladislavantonyuk.github.io/articles/.NET-MAUI-Push-Notifications-using-Azure-Notification-Hub.-Part-1.-Setup-Azure-Notification-Hub/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Adding custom action button to .NET MAUI Shell TabBar]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Adding-custom-action-button-to-.NET-MAUI-Shell-TabBar/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Adding-custom-action-button-to-.NET-MAUI-Shell-TabBar/</guid>
+      <description><![CDATA[The article demonstrates how to customize .NET MAUI Shell TabBar for Android and iOS/MacCatalyst platforms, offering step-by-step guidance, code examples, and a link to the GitHub repository containing full examples for practical usage.]]></description>
+      <content:encoded><![CDATA[<p>The article demonstrates how to customize .NET MAUI Shell TabBar for Android and iOS/MacCatalyst platforms, offering step-by-step guidance, code examples, and a link to the GitHub repository containing full examples for practical usage.</p><a href='https://vladislavantonyuk.github.io/articles/Adding-custom-action-button-to-.NET-MAUI-Shell-TabBar/'>https://vladislavantonyuk.github.io/articles/Adding-custom-action-button-to-.NET-MAUI-Shell-TabBar/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Drag and Drop any content from a .NET MAUI application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Drag-and-Drop-any-content-from-a-.NET-MAUI-application/</link>
+      <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Drag-and-Drop-any-content-from-a-.NET-MAUI-application/</guid>
+      <description><![CDATA[The article demonstrates how to add drag and drop functionality to easily move content from the .NET MAUI application to the operating system.]]></description>
+      <content:encoded><![CDATA[<p>The article demonstrates how to add drag and drop functionality to easily move content from the .NET MAUI application to the operating system.</p><a href='https://vladislavantonyuk.github.io/articles/Drag-and-Drop-any-content-from-a-.NET-MAUI-application/'>https://vladislavantonyuk.github.io/articles/Drag-and-Drop-any-content-from-a-.NET-MAUI-application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Customizing .NET MAUI Shell]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Customizing-.NET-MAUI-Shell/</link>
+      <pubDate>Tue, 23 May 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Customizing-.NET-MAUI-Shell/</guid>
+      <description><![CDATA[The article demonstrates how to customize .NET MAUI Shell for Android and iOS/MacCatalyst platforms, offering step-by-step guidance, code examples, and a link to the GitHub repository containing full examples for practical usage.]]></description>
+      <content:encoded><![CDATA[<p>The article demonstrates how to customize .NET MAUI Shell for Android and iOS/MacCatalyst platforms, offering step-by-step guidance, code examples, and a link to the GitHub repository containing full examples for practical usage.</p><a href='https://vladislavantonyuk.github.io/articles/Customizing-.NET-MAUI-Shell/'>https://vladislavantonyuk.github.io/articles/Customizing-.NET-MAUI-Shell/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Setting a cursor for .NET MAUI VisualElement]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Setting-a-cursor-for-.NET-MAUI-VisualElement/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Setting-a-cursor-for-.NET-MAUI-VisualElement/</guid>
+      <description><![CDATA[The article demonstrates how to change cursor of any .NET MAUI VisualElement.]]></description>
+      <content:encoded><![CDATA[<p>The article demonstrates how to change cursor of any .NET MAUI VisualElement.</p><a href='https://vladislavantonyuk.github.io/articles/Setting-a-cursor-for-.NET-MAUI-VisualElement/'>https://vladislavantonyuk.github.io/articles/Setting-a-cursor-for-.NET-MAUI-VisualElement/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Real time live tracking using .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Real-time-live-tracking-using-.NET-MAUI/</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Real-time-live-tracking-using-.NET-MAUI/</guid>
+      <description><![CDATA[The article demonstrates how to create a real-time live tracking application using .NET MAUI.]]></description>
+      <content:encoded><![CDATA[<p>The article demonstrates how to create a real-time live tracking application using .NET MAUI.</p><a href='https://vladislavantonyuk.github.io/articles/Real-time-live-tracking-using-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/Real-time-live-tracking-using-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Drag and Drop any content to a .NET MAUI application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Drag-and-Drop-any-content-to-a-.NET-MAUI-application/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Drag-and-Drop-any-content-to-a-.NET-MAUI-application/</guid>
+      <description><![CDATA[The article demonstrates how to add drop functionality to easily move content from the operating system to the .NET MAUI application.]]></description>
+      <content:encoded><![CDATA[<p>The article demonstrates how to add drop functionality to easily move content from the operating system to the .NET MAUI application.</p><a href='https://vladislavantonyuk.github.io/articles/Drag-and-Drop-any-content-to-a-.NET-MAUI-application/'>https://vladislavantonyuk.github.io/articles/Drag-and-Drop-any-content-to-a-.NET-MAUI-application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Integrating captcha into a .NET MAUI application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Integrating-captcha-into-a-.NET-MAUI-application/</link>
+      <pubDate>Sun, 19 Feb 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Integrating-captcha-into-a-.NET-MAUI-application/</guid>
+      <description><![CDATA[The article demonstrates how to integrate captcha into .NET MAUI application.]]></description>
+      <content:encoded><![CDATA[<p>The article demonstrates how to integrate captcha into .NET MAUI application.</p><a href='https://vladislavantonyuk.github.io/articles/Integrating-captcha-into-a-.NET-MAUI-application/'>https://vladislavantonyuk.github.io/articles/Integrating-captcha-into-a-.NET-MAUI-application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Dynamic configuration in .NET MAUI application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Dynamic-configuration-in-.NET-MAUI-application/</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Dynamic-configuration-in-.NET-MAUI-application/</guid>
+      <description><![CDATA[The article demonstrates how to integrate .NET MAUI application with ConfigCat.]]></description>
+      <content:encoded><![CDATA[<p>The article demonstrates how to integrate .NET MAUI application with ConfigCat.</p><a href='https://vladislavantonyuk.github.io/articles/Dynamic-configuration-in-.NET-MAUI-application/'>https://vladislavantonyuk.github.io/articles/Dynamic-configuration-in-.NET-MAUI-application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Creating Markdown control with .NET MAUI Graphics]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Creating-Markdown-control-with-.NET-MAUI-Graphics/</link>
+      <pubDate>Sun, 08 Jan 2023 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Creating-Markdown-control-with-.NET-MAUI-Graphics/</guid>
+      <description><![CDATA[The article demonstrates how to render markdown with .NET MAUI Graphics.]]></description>
+      <content:encoded><![CDATA[<p>The article demonstrates how to render markdown with .NET MAUI Graphics.</p><a href='https://vladislavantonyuk.github.io/articles/Creating-Markdown-control-with-.NET-MAUI-Graphics/'>https://vladislavantonyuk.github.io/articles/Creating-Markdown-control-with-.NET-MAUI-Graphics/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[AppIcon Badge with .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/AppIcon-Badge-with-.NET-MAUI/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/AppIcon-Badge-with-.NET-MAUI/</guid>
+      <description><![CDATA[The article demonstrates how to add the AppIcon badge number with .NET MAUI.]]></description>
+      <content:encoded><![CDATA[<p>The article demonstrates how to add the AppIcon badge number with .NET MAUI.</p><a href='https://vladislavantonyuk.github.io/articles/AppIcon-Badge-with-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/AppIcon-Badge-with-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Speech recognition with .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Speech-recognition-with-.NET-MAUI/</link>
+      <pubDate>Sun, 13 Nov 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Speech-recognition-with-.NET-MAUI/</guid>
+      <description><![CDATA[Using a Speech recognizer to convert speech to text.]]></description>
+      <content:encoded><![CDATA[<p>Using a Speech recognizer to convert speech to text.</p><a href='https://vladislavantonyuk.github.io/articles/Speech-recognition-with-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/Speech-recognition-with-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Creating dynamic floating action button]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Creating-dynamic-floating-action-button/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Creating-dynamic-floating-action-button/</guid>
+      <description><![CDATA[Create a dynamic floating action button using an Expander control.]]></description>
+      <content:encoded><![CDATA[<p>Create a dynamic floating action button using an Expander control.</p><a href='https://vladislavantonyuk.github.io/articles/Creating-dynamic-floating-action-button/'>https://vladislavantonyuk.github.io/articles/Creating-dynamic-floating-action-button/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Customize map pins in .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Customize-map-pins-in-.NET-MAUI/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Customize-map-pins-in-.NET-MAUI/</guid>
+      <description><![CDATA[Customize map pins in .NET MAUI.]]></description>
+      <content:encoded><![CDATA[<p>Customize map pins in .NET MAUI.</p><a href='https://vladislavantonyuk.github.io/articles/Customize-map-pins-in-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/Customize-map-pins-in-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Prepare .NET MAUI application with CommunityToolkit.MAUI to release]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Prepare-.NET-MAUI-application-with-CommunityToolkit.MAUI-to-release/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Prepare-.NET-MAUI-application-with-CommunityToolkit.MAUI-to-release/</guid>
+      <description><![CDATA[The article describes how to configure .NET MAUI CommunityToolkit to avoid crashes at runtime.]]></description>
+      <content:encoded><![CDATA[<p>The article describes how to configure .NET MAUI CommunityToolkit to avoid crashes at runtime.</p><a href='https://vladislavantonyuk.github.io/articles/Prepare-.NET-MAUI-application-with-CommunityToolkit.MAUI-to-release/'>https://vladislavantonyuk.github.io/articles/Prepare-.NET-MAUI-application-with-CommunityToolkit.MAUI-to-release/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Migrate the deprecated OnBackPressed function in .NET MAUI Android application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Migrate-the-deprecated-OnBackPressed-function-in-.NET-MAUI-Android-application/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Migrate-the-deprecated-OnBackPressed-function-in-.NET-MAUI-Android-application/</guid>
+      <description><![CDATA[This article is devoted to the new API added in Android 13, that adds support to predictive back gestures.]]></description>
+      <content:encoded><![CDATA[<p>This article is devoted to the new API added in Android 13, that adds support to predictive back gestures.</p><a href='https://vladislavantonyuk.github.io/articles/Migrate-the-deprecated-OnBackPressed-function-in-.NET-MAUI-Android-application/'>https://vladislavantonyuk.github.io/articles/Migrate-the-deprecated-OnBackPressed-function-in-.NET-MAUI-Android-application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Create custom animations using .NET MAUI CommunityToolkit]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Create-custom-animations-using-.NET-MAUI-CommunityToolkit/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Create-custom-animations-using-.NET-MAUI-CommunityToolkit/</guid>
+      <description><![CDATA[This article describes how to leverage .NET MAUI CommunityToolkit BaseAnimation and AnimationBehavior to create and apply animation.]]></description>
+      <content:encoded><![CDATA[<p>This article describes how to leverage .NET MAUI CommunityToolkit BaseAnimation and AnimationBehavior to create and apply animation.</p><a href='https://vladislavantonyuk.github.io/articles/Create-custom-animations-using-.NET-MAUI-CommunityToolkit/'>https://vladislavantonyuk.github.io/articles/Create-custom-animations-using-.NET-MAUI-CommunityToolkit/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Creating a bottom sheet using .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Creating-a-bottom-sheet-using-.NET-MAUI/</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Creating-a-bottom-sheet-using-.NET-MAUI/</guid>
+      <description><![CDATA[Creating a bottom sheet using native dialogs.]]></description>
+      <content:encoded><![CDATA[<p>Creating a bottom sheet using native dialogs.</p><a href='https://vladislavantonyuk.github.io/articles/Creating-a-bottom-sheet-using-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/Creating-a-bottom-sheet-using-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Extend .NET MAUI application with iOS Extensions]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Extend-.NET-MAUI-application-with-iOS-Extensions/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Extend-.NET-MAUI-application-with-iOS-Extensions/</guid>
+      <description><![CDATA[Extend the .NET MAUI application with iOS App Extension in 5 steps.]]></description>
+      <content:encoded><![CDATA[<p>Extend the .NET MAUI application with iOS App Extension in 5 steps.</p><a href='https://vladislavantonyuk.github.io/articles/Extend-.NET-MAUI-application-with-iOS-Extensions/'>https://vladislavantonyuk.github.io/articles/Extend-.NET-MAUI-application-with-iOS-Extensions/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Secure .NET MAUI application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Secure-.NET-MAUI-application/</link>
+      <pubDate>Sat, 06 Aug 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Secure-.NET-MAUI-application/</guid>
+      <description><![CDATA[The article describes how to add secure surfaces to prevent content rendered into those surfaces by applications from appearing in screenshots or from being viewed on non-secure displays.]]></description>
+      <content:encoded><![CDATA[<p>The article describes how to add secure surfaces to prevent content rendered into those surfaces by applications from appearing in screenshots or from being viewed on non-secure displays.</p><a href='https://vladislavantonyuk.github.io/articles/Secure-.NET-MAUI-application/'>https://vladislavantonyuk.github.io/articles/Secure-.NET-MAUI-application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Replicate a bank application UI using .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Replicate-a-bank-application-UI-using-.NET-MAUI/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Replicate-a-bank-application-UI-using-.NET-MAUI/</guid>
+      <description><![CDATA[Replicate the Ukrainian Monobank application UI using .NET MAUI.]]></description>
+      <content:encoded><![CDATA[<p>Replicate the Ukrainian Monobank application UI using .NET MAUI.</p><a href='https://vladislavantonyuk.github.io/articles/Replicate-a-bank-application-UI-using-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/Replicate-a-bank-application-UI-using-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Creating beautiful image effects using .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Creating-beautiful-image-effects-using-.NET-MAUI/</link>
+      <pubDate>Sun, 10 Jul 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Creating-beautiful-image-effects-using-.NET-MAUI/</guid>
+      <description><![CDATA[The article describes how to create a blur image effect using .NET MAUI behaviors.]]></description>
+      <content:encoded><![CDATA[<p>The article describes how to create a blur image effect using .NET MAUI behaviors.</p><a href='https://vladislavantonyuk.github.io/articles/Creating-beautiful-image-effects-using-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/Creating-beautiful-image-effects-using-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Creating a card stack layout using .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Creating-a-card-stack-layout-using-.NET-MAUI/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Creating-a-card-stack-layout-using-.NET-MAUI/</guid>
+      <description><![CDATA[The article describes how to create a custom control for stacking cards.]]></description>
+      <content:encoded><![CDATA[<p>The article describes how to create a custom control for stacking cards.</p><a href='https://vladislavantonyuk.github.io/articles/Creating-a-card-stack-layout-using-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/Creating-a-card-stack-layout-using-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Localize .NET MAUI application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Localize-.NET-MAUI-application/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Localize-.NET-MAUI-application/</guid>
+      <description><![CDATA[This article describes how to localize .NET MAUI application and switch the language without restarting the app.]]></description>
+      <content:encoded><![CDATA[<p>This article describes how to localize .NET MAUI application and switch the language without restarting the app.</p><a href='https://vladislavantonyuk.github.io/articles/Localize-.NET-MAUI-application/'>https://vladislavantonyuk.github.io/articles/Localize-.NET-MAUI-application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Interactive app tutorial in .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Interactive-app-tutorial-in-.NET-MAUI/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Interactive-app-tutorial-in-.NET-MAUI/</guid>
+      <description><![CDATA[Add interactive app tutorial in .NET MAUI using CommunityToolkit.Maui Popup.]]></description>
+      <content:encoded><![CDATA[<p>Add interactive app tutorial in .NET MAUI using CommunityToolkit.Maui Popup.</p><a href='https://vladislavantonyuk.github.io/articles/Interactive-app-tutorial-in-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/Interactive-app-tutorial-in-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Built in authentication for specific pages in Azure App Service]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Built-in-authentication-for-specific-pages-in-Azure-App-Service/</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Built-in-authentication-for-specific-pages-in-Azure-App-Service/</guid>
+      <description><![CDATA[This article describes how to simplify authentication and authorization for specific pages in Azure App Service by writing minimal or no code in your web app.]]></description>
+      <content:encoded><![CDATA[<p>This article describes how to simplify authentication and authorization for specific pages in Azure App Service by writing minimal or no code in your web app.</p><a href='https://vladislavantonyuk.github.io/articles/Built-in-authentication-for-specific-pages-in-Azure-App-Service/'>https://vladislavantonyuk.github.io/articles/Built-in-authentication-for-specific-pages-in-Azure-App-Service/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[How to show SnackBar and Toast in .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/How-to-show-SnackBar-and-Toast-in-.NET-MAUI/</link>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/How-to-show-SnackBar-and-Toast-in-.NET-MAUI/</guid>
+      <description><![CDATA[Demonstrate how to configure SnackBar and Toast using .NET MAUI Community Toolkit.]]></description>
+      <content:encoded><![CDATA[<p>Demonstrate how to configure SnackBar and Toast using .NET MAUI Community Toolkit.</p><a href='https://vladislavantonyuk.github.io/articles/How-to-show-SnackBar-and-Toast-in-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/How-to-show-SnackBar-and-Toast-in-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Create a gallery app using .NET MAUI Blazor]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Create-a-gallery-app-using-.NET-MAUI-Blazor/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Create-a-gallery-app-using-.NET-MAUI-Blazor/</guid>
+      <description><![CDATA[Create infinite scrolling gallery app using .NET MAUI Blazor. Replicate Google Photos and Instagram Gallery UI.]]></description>
+      <content:encoded><![CDATA[<p>Create infinite scrolling gallery app using .NET MAUI Blazor. Replicate Google Photos and Instagram Gallery UI.</p><a href='https://vladislavantonyuk.github.io/articles/Create-a-gallery-app-using-.NET-MAUI-Blazor/'>https://vladislavantonyuk.github.io/articles/Create-a-gallery-app-using-.NET-MAUI-Blazor/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[.NET MAUI Multi Window support]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/.NET-MAUI-Multi-Window-support/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/.NET-MAUI-Multi-Window-support/</guid>
+      <description><![CDATA[Add Multi-window support to your .NET MAUI application.]]></description>
+      <content:encoded><![CDATA[<p>Add Multi-window support to your .NET MAUI application.</p><a href='https://vladislavantonyuk.github.io/articles/.NET-MAUI-Multi-Window-support/'>https://vladislavantonyuk.github.io/articles/.NET-MAUI-Multi-Window-support/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Adding SQLite to the .NET MAUI application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Adding-SQLite-to-the-.NET-MAUI-application/</link>
+      <pubDate>Sat, 11 Dec 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Adding-SQLite-to-the-.NET-MAUI-application/</guid>
+      <description><![CDATA[Connect to SQLite from .NET MAUI application.]]></description>
+      <content:encoded><![CDATA[<p>Connect to SQLite from .NET MAUI application.</p><a href='https://vladislavantonyuk.github.io/articles/Adding-SQLite-to-the-.NET-MAUI-application/'>https://vladislavantonyuk.github.io/articles/Adding-SQLite-to-the-.NET-MAUI-application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Azure Active Directory authentication in .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Azure-Active-Directory-authentication-in-.NET-MAUI/</link>
+      <pubDate>Sat, 13 Nov 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Azure-Active-Directory-authentication-in-.NET-MAUI/</guid>
+      <description><![CDATA[Create a small mobile application, which requires user authentication, using .NET MAUI (AD and AD B2C).]]></description>
+      <content:encoded><![CDATA[<p>Create a small mobile application, which requires user authentication, using .NET MAUI (AD and AD B2C).</p><a href='https://vladislavantonyuk.github.io/articles/Azure-Active-Directory-authentication-in-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/Azure-Active-Directory-authentication-in-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Onion architecture in the development of cross platform applications. Part 4. UI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-4.-UI/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-4.-UI/</guid>
+      <description><![CDATA[Overview of onion architecture. Creating a cross-platform application with the onion architecture.]]></description>
+      <content:encoded><![CDATA[<p>Overview of onion architecture. Creating a cross-platform application with the onion architecture.</p><a href='https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-4.-UI/'>https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-4.-UI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Onion architecture in the development of cross platform applications. Part 3. Infrastructure]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-3.-Infrastructure/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-3.-Infrastructure/</guid>
+      <description><![CDATA[Overview of onion architecture. Creating a cross-platform application with the onion architecture.]]></description>
+      <content:encoded><![CDATA[<p>Overview of onion architecture. Creating a cross-platform application with the onion architecture.</p><a href='https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-3.-Infrastructure/'>https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-3.-Infrastructure/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Onion architecture in the development of cross platform applications. Part 2. Domain and Application]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-2.-Domain-and-Application/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-2.-Domain-and-Application/</guid>
+      <description><![CDATA[Overview of onion architecture. Creating a cross-platform application with the onion architecture.]]></description>
+      <content:encoded><![CDATA[<p>Overview of onion architecture. Creating a cross-platform application with the onion architecture.</p><a href='https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-2.-Domain-and-Application/'>https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-2.-Domain-and-Application/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Onion architecture in the development of cross platform applications. Part 1. Overview]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-1.-Overview/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-1.-Overview/</guid>
+      <description><![CDATA[Overview of onion architecture. Creating a cross-platform application with the onion architecture.]]></description>
+      <content:encoded><![CDATA[<p>Overview of onion architecture. Creating a cross-platform application with the onion architecture.</p><a href='https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-1.-Overview/'>https://vladislavantonyuk.github.io/articles/Onion-architecture-in-the-development-of-cross-platform-applications.-Part-1.-Overview/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[The first project with .NET MAUI]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/The-first-project-with-.NET-MAUI/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/The-first-project-with-.NET-MAUI/</guid>
+      <description><![CDATA[How to migrate Xamarin.Forms app to .NET MAUI step by step.]]></description>
+      <content:encoded><![CDATA[<p>How to migrate Xamarin.Forms app to .NET MAUI step by step.</p><a href='https://vladislavantonyuk.github.io/articles/The-first-project-with-.NET-MAUI/'>https://vladislavantonyuk.github.io/articles/The-first-project-with-.NET-MAUI/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Drawing View in Xamarin Community Toolkit]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Drawing-View-in-Xamarin-Community-Toolkit/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Drawing-View-in-Xamarin-Community-Toolkit/</guid>
+      <description><![CDATA[The SignaturePad successor is now available in XCT. This article describes how to add it to your project.]]></description>
+      <content:encoded><![CDATA[<p>The SignaturePad successor is now available in XCT. This article describes how to add it to your project.</p><a href='https://vladislavantonyuk.github.io/articles/Drawing-View-in-Xamarin-Community-Toolkit/'>https://vladislavantonyuk.github.io/articles/Drawing-View-in-Xamarin-Community-Toolkit/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Identity and Dynamic routing in Blazor]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Identity-and-Dynamic-routing-in-Blazor/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Identity-and-Dynamic-routing-in-Blazor/</guid>
+      <description><![CDATA[The Identity of the user in DynamicRouteValueTransformer.]]></description>
+      <content:encoded><![CDATA[<p>The Identity of the user in DynamicRouteValueTransformer.</p><a href='https://vladislavantonyuk.github.io/articles/Identity-and-Dynamic-routing-in-Blazor/'>https://vladislavantonyuk.github.io/articles/Identity-and-Dynamic-routing-in-Blazor/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Creating Kanban Board using Xamarin.Forms]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Creating-Kanban-Board-using-Xamarin.Forms/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Creating-Kanban-Board-using-Xamarin.Forms/</guid>
+      <description><![CDATA[This article describes how to create Kanban Board using Xamarin Forms (.NET MAUI) only. Drag & Drop Cards, Set Column WIP, Store data in Local Db.]]></description>
+      <content:encoded><![CDATA[<p>This article describes how to create Kanban Board using Xamarin Forms (.NET MAUI) only. Drag & Drop Cards, Set Column WIP, Store data in Local Db.</p><a href='https://vladislavantonyuk.github.io/articles/Creating-Kanban-Board-using-Xamarin.Forms/'>https://vladislavantonyuk.github.io/articles/Creating-Kanban-Board-using-Xamarin.Forms/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[How to show SnackBar and Toast using Xamarin Community Toolkit]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/How-to-show-SnackBar-and-Toast-using-Xamarin-Community-Toolkit/</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/How-to-show-SnackBar-and-Toast-using-Xamarin-Community-Toolkit/</guid>
+      <description><![CDATA[Demonstrate how to configure SnackBar and Toast using Xamarin Community Toolkit.]]></description>
+      <content:encoded><![CDATA[<p>Demonstrate how to configure SnackBar and Toast using Xamarin Community Toolkit.</p><a href='https://vladislavantonyuk.github.io/articles/How-to-show-SnackBar-and-Toast-using-Xamarin-Community-Toolkit/'>https://vladislavantonyuk.github.io/articles/How-to-show-SnackBar-and-Toast-using-Xamarin-Community-Toolkit/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Creating screen brightness service with .NET]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Creating-screen-brightness-service-with-.NET/</link>
+      <pubDate>Sun, 14 Feb 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Creating-screen-brightness-service-with-.NET/</guid>
+      <description><![CDATA[Creating WindowsService to adjust screen brightness on laptops.]]></description>
+      <content:encoded><![CDATA[<p>Creating WindowsService to adjust screen brightness on laptops.</p><a href='https://vladislavantonyuk.github.io/articles/Creating-screen-brightness-service-with-.NET/'>https://vladislavantonyuk.github.io/articles/Creating-screen-brightness-service-with-.NET/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[Secrets of successful interview]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/Secrets-of-successful-interview/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/Secrets-of-successful-interview/</guid>
+      <description><![CDATA[Some base recommendations which might help you to successfully pass the interview.]]></description>
+      <content:encoded><![CDATA[<p>Some base recommendations which might help you to successfully pass the interview.</p><a href='https://vladislavantonyuk.github.io/articles/Secrets-of-successful-interview/'>https://vladislavantonyuk.github.io/articles/Secrets-of-successful-interview/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+    <item>
+      <title><![CDATA[How to automatically keep your code clean]]></title>
+      <link>https://vladislavantonyuk.github.io/articles/How-to-automatically-keep-your-code-clean/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 GMT</pubDate>
+      <guid>https://vladislavantonyuk.github.io/articles/How-to-automatically-keep-your-code-clean/</guid>
+      <description><![CDATA[The article is dedicated to setting git hooks and using code inspectors.]]></description>
+      <content:encoded><![CDATA[<p>The article is dedicated to setting git hooks and using code inspectors.</p><a href='https://vladislavantonyuk.github.io/articles/How-to-automatically-keep-your-code-clean/'>https://vladislavantonyuk.github.io/articles/How-to-automatically-keep-your-code-clean/</a>]]></content:encoded>
+      <dc:creator><![CDATA[Vladislav Antonyuk]]></dc:creator>
+    </item>
+  </channel>
+</rss>

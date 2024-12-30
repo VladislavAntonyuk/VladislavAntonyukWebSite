@@ -1,0 +1,532 @@
+[
+	{
+		"id": 1,
+		"name": ".NET MAUI/Xamarin",
+		"description": ".NET MAUI, .NET MAUI Blazor, Xamarin",
+		"articles": [
+			{
+				"id": 4,
+				"created": "2021-03-15",
+				"name": "How to show SnackBar and Toast using Xamarin Community Toolkit",
+				"description": "Demonstrate how to configure SnackBar and Toast using Xamarin Community Toolkit.",
+				"keywords": "xamarin, community, toolkit, snackbar, toast",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/4/5.png"
+			},
+			{
+				"id": 5,
+				"created": "2021-04-22",
+				"name": "Creating Kanban Board using Xamarin.Forms",
+				"description": "This article describes how to create Kanban Board using Xamarin Forms (.NET MAUI) only. Drag & Drop Cards, Set Column WIP, Store data in Local Db.",
+				"keywords": "kanban, board, xamarin, collection, view, drag and drop, maui, dotnet",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/5/kanban1.png"
+			},
+			{
+				"id": 7,
+				"created": "2021-05-21",
+				"name": "Drawing View in Xamarin Community Toolkit",
+				"description": "The SignaturePad successor is now available in XCT. This article describes how to add it to your project.",
+				"keywords": "xamarin, drawing, view, signature, signaturepad, drawgo, community toolkit",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/7/paint-dotnet.png"
+			},
+			{
+				"id": 8,
+				"created": "2021-06-14",
+				"name": "The first project with .NET MAUI",
+				"description": "How to migrate Xamarin.Forms app to .NET MAUI step by step.",
+				"keywords": ".net, maui, dotnet, xamarin, migration, forms, first project",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/8/dotnetbotmaui.png"
+			},
+			{
+				"id": 13,
+				"created": "2021-11-13",
+				"name": "Azure Active Directory authentication in .NET MAUI",
+				"description": "Create a small mobile application, which requires user authentication, using .NET MAUI (AD and AD B2C).",
+				"keywords": "azure, authentication, maui, active directory, dotnet, b2c, blazor",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/13/maui-auth.png"
+			},
+			{
+				"id": 14,
+				"created": "2021-12-11",
+				"name": "Adding SQLite to the .NET MAUI application",
+				"description": "Connect to SQLite from .NET MAUI application.",
+				"keywords": "maui, sqlite, blazor, .net, dotnet, encryption, cipher, entity framework, EFCore, entity framework, core",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/14/maui-sqlite.svg"
+			},
+			{
+				"id": 15,
+				"created": "2021-12-30",
+				"name": ".NET MAUI Multi Window support",
+				"description": "Add Multi-window support to your .NET MAUI application.",
+				"keywords": "https://github.com/dotnet/maui/issues/1720",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/15/multi-window.webp"
+			},
+			{
+				"id": 16,
+				"created": "2022-01-14",
+				"name": "Create a gallery app using .NET MAUI Blazor",
+				"description": "Create infinite scrolling gallery app using .NET MAUI Blazor. Replicate Google Photos and Instagram Gallery UI.",
+				"keywords": "Gallery, blazor, maui, dotnet, .net, Google Photos, Instagram",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/16/MauiBlazor.png"
+			},
+			{
+				"id": 17,
+				"created": "2022-02-11",
+				"name": "How to show SnackBar and Toast in .NET MAUI",
+				"description": "Demonstrate how to configure SnackBar and Toast using .NET MAUI Community Toolkit.",
+				"keywords": ".net, community, toolkit, snackbar, toast, blazor, dotnet, maui",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/17/19.png"
+			},
+			{
+				"id": 19,
+				"created": "2022-04-02",
+				"name": "Interactive app tutorial in .NET MAUI",
+				"description": "Add interactive app tutorial in .NET MAUI using CommunityToolkit.Maui Popup.",
+				"keywords": "popup, maui. app tutorial, interactive, .net, dotnet, community, toolkit",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/19/tutorial-help.gif"
+			},
+			{
+				"id": 20,
+				"created": "2022-05-26",
+				"name": "Localize .NET MAUI application",
+				"description": "This article describes how to localize .NET MAUI application and switch the language without restarting the app.",
+				"keywords": ".net, maui, dotnet, xamarin, migration, forms, first project",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/20/MauiLocalization.gif"
+			},
+			{
+				"id": 21,
+				"created": "2022-06-28",
+				"name": "Creating a card stack layout using .NET MAUI",
+				"description": "The article describes how to create a custom control for stacking cards.",
+				"keywords": "dotnet, maui, card, stack, layout, swipe, direction, cardview, view, gesture, swipe gesture,pan gesture, PanGestureRecognizer",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/21/card-layout.gif"
+			},
+			{
+				"id": 22,
+				"created": "2022-07-10",
+				"name": "Creating beautiful image effects using .NET MAUI",
+				"description": "The article describes how to create a blur image effect using .NET MAUI behaviors.",
+				"keywords": "dotnet, .net, maui, effects, behaviors, image, gaussian, blur, saturation, chain, beautiful",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/22/image-effects.gif"
+			},
+			{
+				"id": 23,
+				"created": "2022-07-21",
+				"name": "Replicate a bank application UI using .NET MAUI",
+				"description": "Replicate the Ukrainian Monobank application UI using .NET MAUI.",
+				"keywords": "dotnet, maui, challenge, monobank, replicate, Ukraine, dotnetmaui, MAUIUIJuly",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/23/dotnet-maui-bank.svg"
+			},
+			{
+				"id": 24,
+				"created": "2022-08-06",
+				"name": "Secure .NET MAUI application",
+				"description": "The article describes how to add secure surfaces to prevent content rendered into those surfaces by applications from appearing in screenshots or from being viewed on non-secure displays.",
+				"keywords": "dotnet, maui, secure, flag, overlay, subview, screenshot, safeguard, protect, FLAG_SECURE",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/24/dotnet-maui-bank-secure.gif"
+			},
+			{
+				"id": 25,
+				"created": "2022-08-09",
+				"name": "Extend .NET MAUI application with iOS Extensions",
+				"description": "Extend the .NET MAUI application with iOS App Extension in 5 steps.",
+				"keywords": "ios, extensions, dotnet, maui, .net, extend, app extensions, apple",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/25/logo.gif"
+			},
+			{
+				"id": 26,
+				"created": "2022-09-02",
+				"name": "Creating a bottom sheet using .NET MAUI",
+				"description": "Creating a bottom sheet using native dialogs.",
+				"keywords": "dotnet, maui, .net, bottom sheet, alert",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/26/logo.gif"
+			},
+			{
+				"id": 27,
+				"created": "2022-09-14",
+				"name": "Create custom animations using .NET MAUI CommunityToolkit",
+				"description": "This article describes how to leverage .NET MAUI CommunityToolkit BaseAnimation and AnimationBehavior to create and apply animation.",
+				"keywords": "dotnet, maui, animation, community, toolkit, CommunityToolkit, BaseAnimation, VisualElement, AnimationBehavior, scale, fade, rotation, transitionX, transitionY",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/27/dotnet-maui-animation.gif"
+			},
+			{
+				"id": 28,
+				"created": "2022-09-29",
+				"name": "Migrate the deprecated OnBackPressed function in .NET MAUI Android application",
+				"description": "This article is devoted to the new API added in Android 13, that adds support to predictive back gestures.",
+				"keywords": "OnBackPressed, deprecated, Android, Android 13, Android 33",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/28/1.png"
+			},
+			{
+				"id": 29,
+				"created": "2022-10-04",
+				"name": "Prepare .NET MAUI application with CommunityToolkit.MAUI to release",
+				"description": "The article describes how to configure .NET MAUI CommunityToolkit to avoid crashes at runtime.",
+				"keywords": "CommunityToolkit, dotnet, maui, options, release, configuration",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/29/29.png"
+			},
+			{
+				"id": 30,
+				"created": "2022-10-10",
+				"name": "Customize map pins in .NET MAUI",
+				"description": "Customize map pins in .NET MAUI.",
+				"keywords": "dotnet, .net, maui, map, pin, customization",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/30/android-pins.png"
+			},
+			{
+				"id": 31,
+				"created": "2022-11-09",
+				"name": "Creating dynamic floating action button",
+				"description": "Create a dynamic floating action button using an Expander control.",
+				"keywords": "dynamic, floating, action, button, fab, dotnet, .net, maui, expander",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/31/android.gif"
+			},
+			{
+				"id": 32,
+				"created": "2022-11-13",
+				"name": "Speech recognition with .NET MAUI",
+				"description": "Using a Speech recognizer to convert speech to text.",
+				"keywords": "dotnet, .net, maui, speech-to-text, speech, recognizer, recognition, speech recognition",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/32/speech_to_text.png"
+			},
+			{
+				"id": 33,
+				"created": "2022-12-01",
+				"name": "AppIcon Badge with .NET MAUI",
+				"description": "The article demonstrates how to add the AppIcon badge number with .NET MAUI.",
+				"keywords": "dotnet, maui, .net, appicon, icon, badge, notification, badgenumber, number, android, ios, maccatalyst, windows, tizen",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/33/icon.png"
+			},
+			{
+				"id": 35,
+				"created": "2023-01-08",
+				"name": "Creating Markdown control with .NET MAUI Graphics",
+				"description": "The article demonstrates how to render markdown with .NET MAUI Graphics.",
+				"keywords": "dotnet, maui, .net, markdown, android, ios, maccatalyst, windows, tizen",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/35/ios.png"
+			},
+			{
+				"id": 36,
+				"created": "2023-02-02",
+				"name": "Dynamic configuration in .NET MAUI application",
+				"description": "The article demonstrates how to integrate .NET MAUI application with ConfigCat.",
+				"keywords": "dotnet, maui, .net, dynamic, configuration, feature, flag, configcat, android, ios, maccatalyst, windows, tizen",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/36/logo.png"
+			},
+			{
+				"id": 37,
+				"created": "2023-02-19",
+				"name": "Integrating captcha into a .NET MAUI application",
+				"description": "The article demonstrates how to integrate captcha into .NET MAUI application.",
+				"keywords": "dotnet, maui, .net, captcha, security, feature, blazor, recaptcha, hcaptcha, safetynet, google, android, ios, maccatalyst, windows, tizen",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/37/logo.gif"
+			},
+			{
+				"id": 38,
+				"created": "2023-03-19",
+				"name": "Drag and Drop any content to a .NET MAUI application",
+				"description": "The article demonstrates how to add drop functionality to easily move content from the operating system to the .NET MAUI application.",
+				"keywords": "dotnet, maui, .net, drag and drop, android, ios, maccatalyst, windows, tizen",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/38/logo.gif"
+			},
+			{
+				"id": 39,
+				"created": "2023-04-17",
+				"name": "Real time live tracking using .NET MAUI",
+				"description": "The article demonstrates how to create a real-time live tracking application using .NET MAUI.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, live, tracking, real time, location, map, pin, polyline",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/39/39.png"
+			},
+			{
+				"id": 40,
+				"created": "2023-05-10",
+				"name": "Setting a cursor for .NET MAUI VisualElement",
+				"description": "The article demonstrates how to change cursor of any .NET MAUI VisualElement.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, cursor, hand, visual element",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/40/40.png"
+			},
+			{
+				"id": 41,
+				"created": "2023-05-23",
+				"name": "Customizing .NET MAUI Shell",
+				"description": "The article demonstrates how to customize .NET MAUI Shell for Android and iOS/MacCatalyst platforms, offering step-by-step guidance, code examples, and a link to the GitHub repository containing full examples for practical usage.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, shell, round corner, tabview",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/41/41.png"
+			},
+			{
+				"id": 42,
+				"created": "2023-06-29",
+				"name": "Drag and Drop any content from a .NET MAUI application",
+				"description": "The article demonstrates how to add drag and drop functionality to easily move content from the .NET MAUI application to the operating system.",
+				"keywords": "dotnet, maui, .net, drag and drop, android, ios, maccatalyst, windows, tizen",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/42/logo.gif"
+			},
+			{
+				"id": 43,
+				"created": "2023-07-18",
+				"name": "Adding custom action button to .NET MAUI Shell TabBar",
+				"description": "The article demonstrates how to customize .NET MAUI Shell TabBar for Android and iOS/MacCatalyst platforms, offering step-by-step guidance, code examples, and a link to the GitHub repository containing full examples for practical usage.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, shell, tabbar, MAUIUIJuly",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/43/43.png"
+			},
+			{
+				"id": 45,
+				"created": "2023-08-15",
+				"name": ".NET MAUI Push Notifications using Azure Notification Hub. Part 2. Setup .NET MAUI",
+				"description": "The article demonstrates how to add push notifications to .NET MAUI application using Azure Notification Hub.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, push, notification, azure, hub",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/45/45.png"
+			},
+			{
+				"id": 46,
+				"created": "2023-09-05",
+				"name": "Adding Application Insights to .NET MAUI Application",
+				"description": "This article provides an in-depth exploration into how you can integrate Microsoft's Application Insights into your .NET MAUI application. A comparative study between Microsoft AppCenter and Application Insights is also highlighted, demystifying the inherent advantage of Application Insights in application management and analytics.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, Application Insights, Azure, AppCenter, Application Performance Management, Cross-Platform App Development, User Interaction Tracking, Performance Monitoring, Integration, SDK, TelemetryClient, Track Events, Track Exceptions, DevOps, Application Analytics",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/46/46.png"
+			},
+			{
+				"id": 48,
+				"created": "2023-11-30",
+				"name": "Mastering Composite Controls in .NET MAUI. Building a TabView from Scratch",
+				"description": "Explore the creation of a custom TabView control in .NET MAUI using multiple methods like composing IndicatorView and CarouselView or ContentView with RadioButtons.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, .NET MAUI, custom TabView, IndicatorView, CarouselView, ContentView, RadioButtons, StackLayout, ScrollView, UI design, composite controls, cross-platform development",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/48/48.png"
+			},
+			{
+				"id": 49,
+				"created": "2023-12-24",
+				"name": "Creating CalendarView with .NET MAUI Handler architecture",
+				"description": "Explore the creation of a CalendarView control in .NET MAUI using Handler architecture.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, .NET MAUI, CalendarView, Handler, architecture, cross-platform development",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/49/49.png"
+			},
+			{
+				"id": 50,
+				"created": "2024-01-12",
+				"name": "Effortless Android Library Binding",
+				"description": "Bind Java libraries directly from Maven repositories.",
+				"keywords": "dotnet, maui, .net, android, .NET MAUI, CalendarView, maven, binding, java, cross-platform development",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/50/50.png"
+			},
+			{
+				"id": 51,
+				"created": "2024-02-29",
+				"name": "Testing .NET MAUI Application using Appium and xUnit",
+				"description": "Elevate your .NET MAUI application testing with precision using Appium and xUnit.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, .NET MAUI, testing, xUnit, Appium, cross-platform development",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/51/51.png"
+			},
+			{
+				"id": 52,
+				"created": "2024-03-21",
+				"name": "Targeting Specific Runtimes for Platform Tests",
+				"description": "This article tackles targeted platform testing, enabling you to isolate tests for specific runtime environments, boosting development efficiency and application robustness.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, .NET MAUI, testing, xUnit, Appium, cross-platform development",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/52/52.png"
+			},
+			{
+				"id": 53,
+				"created": "2024-04-01",
+				"name": "Choose the right framework for your next application",
+				"description": "A Deep Dive into .NET MAUI, Uno, and Avalonia.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, .NET MAUI, Avalonia, Uno Platform, cross-platform development",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/53/53.png"
+			},
+			{
+				"id": 54,
+				"created": "2024-05-02",
+				"name": ".NET MAUI CollectionView with Staggered Layout",
+				"description": "Create a Staggered Layout for CollectionView in .NET MAUI.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, .NET MAUI, CollectionView, Staggered Layout, cross-platform development",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/54/54.png"
+			},
+			{
+				"id": 55,
+				"created": "2024-06-11",
+				"name": "Simplifying .NET MAUI App Development with Debugging and Monitoring Tools",
+				"description": "Simplifying .NET MAUI App Development: Debugging and Monitoring Tools.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, .NET MAUI, cross-platform development",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/55/55.png"
+			},
+			{
+				"id": 56,
+				"created": "2024-07-04",
+				"name": "Various methods for barcode scanning in .NET MAUI",
+				"description": "This article explores three methods: using MLKit for Android, Camera.MAUI.ZXing, and CommunityToolkit.Maui.Camera.",
+				"keywords": "dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, .NET MAUI, cross-platform development, barcode, camera, MAUIUIJULY",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/56/56.png"
+			},
+			{
+				"id": 59,
+				"created": "2024-10-30",
+				"name": "Free offline AI in .NET MAUI Application",
+				"description": "",
+				"keywords": "dotnet, .net, maui, ollama, ai, chatgpt, android, ios, maccatalyst, windows, tizen",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/59/59.png"
+			},
+			{
+				"id": 60,
+				"created": "2024-11-11",
+				"name": "Nesting .NET MAUI .xaml Files in Visual Studio Code",
+				"description": "",
+				"keywords": "dotnet, .net, maui, android, ios, maccatalyst, windows, tizen, xaml, vscode",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/60/60.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": ".NET",
+		"description": "https://dot.net",
+		"articles": [
+			{
+				"id": 3,
+				"created": "2021-02-14",
+				"name": "Creating screen brightness service with .NET",
+				"description": "Creating WindowsService to adjust screen brightness on laptops.",
+				"keywords": "windows service, bug, error, screen, brightness, adjust, dotnet, .net",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/3/screen-brightness-service.png"
+			},
+			{
+				"id": 9,
+				"created": "2021-07-21",
+				"name": "Onion architecture in the development of cross platform applications. Part 1. Overview",
+				"description": "Overview of onion architecture. Creating a cross-platform application with the onion architecture.",
+				"keywords": "onion architecture, cross-platform application, development, xamarin, maui, dotnet, blazor, overview, advantages, drawback, Draw & GO",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/9/onion-architecture.webp"
+			},
+			{
+				"id": 10,
+				"created": "2021-08-21",
+				"name": "Onion architecture in the development of cross platform applications. Part 2. Domain and Application",
+				"description": "Overview of onion architecture. Creating a cross-platform application with the onion architecture.",
+				"keywords": "onion architecture, cross-platform application, development, xamarin, maui, dotnet, blazor, overview, advantages, drawback, Draw & GO, domain, application",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/10/onion-architecture.webp"
+			},
+			{
+				"id": 11,
+				"created": "2021-09-21",
+				"name": "Onion architecture in the development of cross platform applications. Part 3. Infrastructure",
+				"description": "Overview of onion architecture. Creating a cross-platform application with the onion architecture.",
+				"keywords": "onion architecture, cross-platform application, development, xamarin, blazor, overview, advantages, drawback, Draw & GO, infrastructure",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/11/onion-architecture.webp"
+			},
+			{
+				"id": 12,
+				"created": "2021-10-04",
+				"name": "Onion architecture in the development of cross platform applications. Part 4. UI",
+				"description": "Overview of onion architecture. Creating a cross-platform application with the onion architecture.",
+				"keywords": "onion architecture, cross-platform application, development, xamarin, maui, dotnet, blazor, overview, advantages, drawback, Draw & GO, UI",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/12/onion-architecture.webp"
+			},
+			{
+				"id": 57,
+				"created": "2024-08-15",
+				"name": "Azure Active Directory authentication in .NET Aspire Distributed Application",
+				"description": "",
+				"keywords": "dotnet, .net, aspire, aad, azure, azure active directory, addb2c, b2c, blazoe, .NET Aspire, microsoft, microsoft entra, webapp, webapi",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/57/57.png"
+			},
+			{
+				"id": 58,
+				"created": "2024-09-30",
+				"name": "Leveraging Free AI with Ollama in .NET Aspire",
+				"description": "",
+				"keywords": "dotnet, .net, aspire, aad, azure, azure active directory, addb2c, b2c, blazor, .NET Aspire, microsoft, microsoft entra, webapp, webapi",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/58/58.png"
+			},
+			{
+				"id": 61,
+				"created": "2024-12-25",
+				"name": "Efficiently Writing Excel Files with Optimized Memory Usage",
+				"description": "",
+				"keywords": "dotnet, .net, excel, benchmark",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/61/61.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"name": "Blazor",
+		"description": "https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor",
+		"articles": [
+			{
+				"id": 6,
+				"created": "2021-05-08",
+				"name": "Identity and Dynamic routing in Blazor",
+				"description": "The Identity of the user in DynamicRouteValueTransformer.",
+				"keywords": "dynamic route, blazor, identity, slug",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/6/44E6443E-0A47-4209-BDD2-D46AB88B66A2.webp"
+			},
+			{
+				"id": 47,
+				"created": "2023-10-16",
+				"name": "Microsoft Identity Platform Authentication in Blazor Web Application",
+				"description": "Adding Microsoft Entra ID B2C in .NET 8 Blazor WebApp.",
+				"keywords": "azure, blazor, identity, azure ad, azure ad b2c, template, microsoft, microsoft identity platfrom, blazor webapp",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/47/47.png"
+			},
+			{
+				"id": 57,
+				"created": "2024-08-15",
+				"name": "Azure Active Directory authentication in .NET Aspire Distributed Application",
+				"description": "",
+				"keywords": "dotnet, .net, aspire, aad, azure, azure active directory, addb2c, b2c, blazor, .NET Aspire, microsoft, microsoft entra, webapp, webapi",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/57/57.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"name": "Azure",
+		"description": "portal.azure.com",
+		"articles": [
+			{
+				"id": 18,
+				"created": "2022-03-10",
+				"name": "Built in authentication for specific pages in Azure App Service",
+				"description": "This article describes how to simplify authentication and authorization for specific pages in Azure App Service by writing minimal or no code in your web app.",
+				"keywords": "Azure, app service, authentication, built-in, identity provider",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/18/14-0.png"
+			},
+			{
+				"id": 44,
+				"created": "2023-08-14",
+				"name": ".NET MAUI Push Notifications using Azure Notification Hub. Part 1. Setup Azure Notification Hub",
+				"description": "The article demonstrates how to add push notifications to .NET MAUI application using Azure Notification Hub.",
+				"keywords": "Azure, notification, hub, dotnet, maui, .net, android, ios, maccatalyst, windows, tizen, push, notification, azure, hub",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/44/44.png"
+			},
+			{
+				"id": 57,
+				"created": "2024-08-15",
+				"name": "Azure Active Directory authentication in .NET Aspire Distributed Application",
+				"description": "",
+				"keywords": "dotnet, .net, aspire, aad, azure, azure active directory, addb2c, b2c, blazoe, .NET Aspire, microsoft, microsoft entra, webapp, webapi",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/57/57.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"name": "General",
+		"articles": [
+			{
+				"id": 1,
+				"created": "2021-01-11",
+				"name": "How to automatically keep your code clean",
+				"description": "The article is dedicated to setting git hooks and using code inspectors.",
+				"keywords": "Clean code, git hooks, resharper",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/1/git-commit-error.png"
+			},
+			{
+				"id": 2,
+				"created": "2021-01-18",
+				"name": "Secrets of successful interview",
+				"description": "Some base recommendations which might help you to successfully pass the interview.",
+				"keywords": "interview, recommendations, success, get to project, IT company",
+				"image": "https://ik.imagekit.io/VladislavAntonyuk/vladislavantonyuk/articles/2/offer.png"
+			}
+		]
+	}
+]
